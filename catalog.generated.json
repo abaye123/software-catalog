@@ -1,0 +1,301 @@
+{
+  "generatedAt": "2026-07-16T18:24:41.606Z",
+  "software": [
+    {
+      "id": "itim",
+      "repo": "ItimHebrewCalendar",
+      "name": {
+        "he": "עיתים",
+        "en": "Itim"
+      },
+      "description": {
+        "he": "לוח שנה עברי ל-Windows עם זמני היום בהלכה, בעיצוב Fluent של Windows 11",
+        "en": "A Hebrew calendar for Windows with halachic daily times, in Windows 11 Fluent design"
+      },
+      "tech": [
+        "C#",
+        "WinUI 3",
+        ".NET 8"
+      ],
+      "pricing": "free",
+      "page": "https://abaye123.github.io/ItimHebrewCalendar/",
+      "stars": 10,
+      "downloads": 849,
+      "release": {
+        "tag": "v1.8.2",
+        "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/tag/v1.8.2",
+        "publishedAt": "2026-07-07T13:29:26Z",
+        "assets": [
+          {
+            "name": "ItimHebrewCalendar-Setup-1.8.2.exe",
+            "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/download/v1.8.2/ItimHebrewCalendar-Setup-1.8.2.exe",
+            "size": 78255186,
+            "downloads": 55
+          }
+        ]
+      }
+    },
+    {
+      "id": "kolsites",
+      "repo": "Kolsites",
+      "name": {
+        "he": "Kolsites",
+        "en": "Kolsites"
+      },
+      "description": {
+        "he": "תוכנת קיוסק לעמדות מחשב ציבוריות - נועלת את הגלישה לאתרים מאושרים בלבד",
+        "en": "A kiosk app for public computer stations - locks browsing to approved sites only"
+      },
+      "tech": [
+        "C#",
+        "WinUI 3",
+        "WebView2"
+      ],
+      "pricing": "free",
+      "page": "https://abaye123.github.io/Kolsites/",
+      "stars": 4,
+      "downloads": 28,
+      "release": {
+        "tag": "v1.7.1",
+        "url": "https://github.com/abaye123/Kolsites/releases/tag/v1.7.1",
+        "publishedAt": "2026-07-08T12:29:54Z",
+        "assets": [
+          {
+            "name": "Kolsites-Setup-1.7.1.exe",
+            "url": "https://github.com/abaye123/Kolsites/releases/download/v1.7.1/Kolsites-Setup-1.7.1.exe",
+            "size": 9728213,
+            "downloads": 4
+          }
+        ]
+      }
+    },
+    {
+      "id": "taplingo",
+      "repo": "TapLingo",
+      "name": {
+        "he": "TapLingo",
+        "en": "TapLingo"
+      },
+      "description": {
+        "he": "תרגום מהיר של כל טקסט על המסך ב-Windows 11, עם אינטגרציה מלאה ל-Click to Do",
+        "en": "Instant on-screen translation for Windows 11, fully integrated with Click to Do"
+      },
+      "tech": [
+        "C#",
+        "WinUI 3"
+      ],
+      "pricing": "free",
+      "page": "https://abaye123.github.io/TapLingo/",
+      "stars": 2,
+      "downloads": 66,
+      "release": {
+        "tag": "v1.0.0",
+        "url": "https://github.com/abaye123/TapLingo/releases/tag/v1.0.0",
+        "publishedAt": "2026-04-24T10:38:04Z",
+        "assets": [
+          {
+            "name": "TapLingo-Setup-1.0.0.exe",
+            "url": "https://github.com/abaye123/TapLingo/releases/download/v1.0.0/TapLingo-Setup-1.0.0.exe",
+            "size": 8222024,
+            "downloads": 66
+          }
+        ]
+      }
+    },
+    {
+      "id": "lumio",
+      "repo": "Lumio",
+      "name": {
+        "he": "Lumio",
+        "en": "Lumio"
+      },
+      "description": {
+        "he": "כלי מגש מערכת להחלפת מצב כהה/בהיר ולשליטה בתאורת לילה - בקליק או בקיצור גלובלי",
+        "en": "A tray tool to toggle dark/light mode and control night light - by click or global hotkey"
+      },
+      "tech": [
+        "C#",
+        "WinUI 3"
+      ],
+      "pricing": "free",
+      "stars": 0,
+      "downloads": 0,
+      "release": {
+        "tag": "v1.0.0",
+        "url": "https://github.com/abaye123/Lumio/releases/tag/v1.0.0",
+        "publishedAt": "2026-06-30T15:41:42Z",
+        "assets": [
+          {
+            "name": "Lumio-Setup-1.0.0-x64.exe",
+            "url": "https://github.com/abaye123/Lumio/releases/download/v1.0.0/Lumio-Setup-1.0.0-x64.exe",
+            "size": 8947536,
+            "downloads": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "et",
+      "repo": "Et",
+      "name": {
+        "he": "עֵת",
+        "en": "Et"
+      },
+      "description": {
+        "he": "רישום היסטוריה אישית בצורה נוחה ומאובטחת, בעיצוב מודרני התואם ל-Windows 11",
+        "en": "Personal history logging, secure and convenient, in a modern Windows 11 design"
+      },
+      "tech": [
+        "C#",
+        "WinUI 3",
+        ".NET 8"
+      ],
+      "pricing": "free",
+      "stars": 0,
+      "downloads": null,
+      "release": null
+    },
+    {
+      "id": "voltrix",
+      "repo": "Voltrix",
+      "name": {
+        "he": "Voltrix",
+        "en": "Voltrix"
+      },
+      "description": {
+        "he": "הצפנת קבצים שהמפתח שלה הוא המספר הסידורי של התקן USB או רכיב חומרה במחשב",
+        "en": "File encryption keyed to the serial number of a USB device or a hardware component"
+      },
+      "tech": [
+        "Python",
+        "PySide6",
+        "cryptography"
+      ],
+      "pricing": "free",
+      "stars": 2,
+      "downloads": 94,
+      "release": {
+        "tag": "v2.1.0",
+        "url": "https://github.com/abaye123/Voltrix/releases/tag/v2.1.0",
+        "publishedAt": "2025-04-20T05:46:04Z",
+        "assets": [
+          {
+            "name": "Voltrix_setop_2.1.0_signed.exe",
+            "url": "https://github.com/abaye123/Voltrix/releases/download/v2.1.0/Voltrix_setop_2.1.0_signed.exe",
+            "size": 70424864,
+            "downloads": 55
+          }
+        ]
+      }
+    },
+    {
+      "id": "shchametai",
+      "repo": "shchametai",
+      "name": {
+        "he": "ShchametAI",
+        "en": "ShchametAI"
+      },
+      "description": {
+        "he": "אפליקציית שחמט חוצת-פלטפורמות עם מנוע מלא, יריב מחשב בשלוש רמות והצעות מהלך מ-Gemini",
+        "en": "A cross-platform chess app with a full engine, a three-level computer opponent and Gemini move hints"
+      },
+      "tech": [
+        "Angular",
+        "Tauri",
+        "Gemini"
+      ],
+      "pricing": "free",
+      "stars": 2,
+      "downloads": 6,
+      "release": {
+        "tag": "v0.3.0",
+        "url": "https://github.com/abaye123/shchametai/releases/tag/v0.3.0",
+        "publishedAt": "2026-02-05T15:56:45Z",
+        "assets": [
+          {
+            "name": "shchametai_0.3.0_x64-setup.exe",
+            "url": "https://github.com/abaye123/shchametai/releases/download/v0.3.0/shchametai_0.3.0_x64-setup.exe",
+            "size": 3985265,
+            "downloads": 3
+          },
+          {
+            "name": "shchametai_0.3.0_x64_en-US.msi",
+            "url": "https://github.com/abaye123/shchametai/releases/download/v0.3.0/shchametai_0.3.0_x64_en-US.msi",
+            "size": 4276224,
+            "downloads": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "lasercounter",
+      "repo": "LaserCounter",
+      "name": {
+        "he": "LaserCounter",
+        "en": "LaserCounter"
+      },
+      "description": {
+        "he": "מונה אותיות עברי עם סטטיסטיקה מפורטת ובחירה אילו תווים ייספרו",
+        "en": "A Hebrew letter counter with detailed statistics and control over which characters count"
+      },
+      "tech": [
+        "Python",
+        "PySide6"
+      ],
+      "pricing": "free",
+      "stars": 1,
+      "downloads": 8,
+      "release": {
+        "tag": "v1.0.0",
+        "url": "https://github.com/abaye123/LaserCounter/releases/tag/v1.0.0",
+        "publishedAt": "2026-02-09T19:44:28Z",
+        "assets": [
+          {
+            "name": "Laser_Counter_1.0.0.exe",
+            "url": "https://github.com/abaye123/LaserCounter/releases/download/v1.0.0/Laser_Counter_1.0.0.exe",
+            "size": 22368232,
+            "downloads": 8
+          },
+          {
+            "name": "Laser_Counter_Setup_1.0.0.exe",
+            "url": "https://github.com/abaye123/LaserCounter/releases/download/v1.0.0/Laser_Counter_Setup_1.0.0.exe",
+            "size": 24620112,
+            "downloads": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "snapfront",
+      "repo": "Snapfront",
+      "name": {
+        "he": "Snapfront",
+        "en": "Snapfront"
+      },
+      "description": {
+        "he": "כלי זעיר שמביא תוכנה נבחרת לחזית בלחיצת מקש חם - ואם היא סגורה, מפעיל אותה",
+        "en": "A tiny tool that brings a chosen app to the front on a hotkey - and launches it if closed"
+      },
+      "tech": [
+        "C#",
+        "Win32"
+      ],
+      "pricing": "free",
+      "stars": 0,
+      "downloads": 0,
+      "release": {
+        "tag": "v1.0.0",
+        "url": "https://github.com/abaye123/Snapfront/releases/tag/v1.0.0",
+        "publishedAt": "2026-07-02T12:50:28Z",
+        "assets": [
+          {
+            "name": "Snapfront_v1.0.0.zip",
+            "url": "https://github.com/abaye123/Snapfront/releases/download/v1.0.0/Snapfront_v1.0.0.zip",
+            "size": 88945,
+            "downloads": 0
+          }
+        ]
+      }
+    }
+  ]
+}

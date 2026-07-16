@@ -1,8 +1,309 @@
 {
-  "generatedAt": "2026-07-16T18:30:21.214Z",
+  "generatedAt": "2026-07-16T18:44:55.875Z",
   "software": [
     {
+      "id": "cosmos",
+      "name": {
+        "he": "קוסמוס",
+        "en": "Cosmos"
+      },
+      "description": {
+        "he": "פלטפורמה אחת לתפעול וניהול מתקדם של מערכות IVR של ימות המשיח - העתקה בין מערכות, תבניות, המרת טקסט לאודיו ובונה שאלונים",
+        "en": "One platform for operating and managing Yemot HaMashiach IVR systems - cross-system copying, templates, text-to-speech and a questionnaire builder"
+      },
+      "pricing": "freemium",
+      "page": "https://cosmos.abaye.co/",
+      "price": {
+        "amount": 45,
+        "currency": "ILS",
+        "period": "monthly",
+        "from": true
+      },
+      "buy": {
+        "url": "https://cosmos.abaye.co/#pricing"
+      },
+      "order": 1,
+      "plans": [
+        {
+          "id": "free",
+          "name": {
+            "he": "חינמי",
+            "en": "Free"
+          },
+          "tagline": {
+            "he": "לשימוש בסיסי (רואנוק)",
+            "en": "Basic use"
+          },
+          "price": {
+            "amount": 0,
+            "currency": "ILS",
+            "period": "forever"
+          },
+          "includes": [
+            {
+              "he": "צפייה בכל מודולי המערכת",
+              "en": "View all system modules"
+            },
+            {
+              "he": "העתקת קבצים בין מערכות עד 18 מ\"ב",
+              "en": "Copy files between systems, up to 18 MB"
+            },
+            {
+              "he": "יצירה והתקנה של תבניות מערכת",
+              "en": "Create and install system templates"
+            },
+            {
+              "he": "בניית תפריטי הודעות",
+              "en": "Build message menus"
+            }
+          ],
+          "excludes": [
+            {
+              "he": "ללא מודול הורדת קבצים",
+              "en": "No file download module"
+            },
+            {
+              "he": "ללא המרת טקסט לאודיו מתקדמת",
+              "en": "No advanced text-to-speech"
+            }
+          ]
+        },
+        {
+          "id": "yearly",
+          "name": {
+            "he": "שנתי",
+            "en": "Yearly"
+          },
+          "tagline": {
+            "he": "הכל כלול - כולל הורדה",
+            "en": "Everything included - download too"
+          },
+          "price": {
+            "amount": 380,
+            "currency": "ILS",
+            "period": "yearly"
+          },
+          "highlight": true,
+          "badge": {
+            "he": "הכי משתלם",
+            "en": "Best value"
+          },
+          "offer": {
+            "name": {
+              "he": "מבצע שנתיים",
+              "en": "Two-year deal"
+            },
+            "price": {
+              "amount": 520,
+              "currency": "ILS",
+              "period": "2-years"
+            },
+            "was": {
+              "amount": 760,
+              "currency": "ILS"
+            },
+            "note": {
+              "he": "חיסכון ₪240 לעומת שנה כפול 2",
+              "en": "Saves ₪240 versus two single years"
+            }
+          },
+          "includes": [
+            {
+              "he": "העתקת קבצים ושלוחות בין מערכות (גם בשרתים שונים)",
+              "en": "Copy files and extensions between systems, including across servers"
+            },
+            {
+              "he": "העלאה מתקדמת של קבצים ותיקיות",
+              "en": "Advanced file and folder upload"
+            },
+            {
+              "he": "יצירה והתקנה של תבניות מערכת",
+              "en": "Create and install system templates"
+            },
+            {
+              "he": "בניית תפריטי הודעות ובונה שאלונים",
+              "en": "Message menus and questionnaire builder"
+            },
+            {
+              "he": "המרת טקסט לאודיו בכל המנועים (Google, Gemini, Edge)",
+              "en": "Text-to-speech on all engines (Google, Gemini, Edge)"
+            },
+            {
+              "he": "שמירת תבניות ונתונים בענן מאובטח",
+              "en": "Templates and data saved in secure cloud"
+            },
+            {
+              "he": "הורדת קבצים מהירה ומתקדמת",
+              "en": "Fast, advanced file download"
+            },
+            {
+              "he": "תמיכה טכנית מלאה",
+              "en": "Full technical support"
+            }
+          ]
+        },
+        {
+          "id": "monthly",
+          "name": {
+            "he": "חודשי",
+            "en": "Monthly"
+          },
+          "tagline": {
+            "he": "לעבודה שוטפת",
+            "en": "For ongoing work"
+          },
+          "price": {
+            "amount": 45,
+            "currency": "ILS",
+            "period": "monthly"
+          },
+          "includes": [
+            {
+              "he": "העתקת קבצים ושלוחות בין מערכות (גם בשרתים שונים)",
+              "en": "Copy files and extensions between systems, including across servers"
+            },
+            {
+              "he": "העלאה מתקדמת של קבצים ותיקיות",
+              "en": "Advanced file and folder upload"
+            },
+            {
+              "he": "יצירה והתקנה של תבניות מערכת",
+              "en": "Create and install system templates"
+            },
+            {
+              "he": "בניית תפריטי הודעות ובונה שאלונים",
+              "en": "Message menus and questionnaire builder"
+            },
+            {
+              "he": "המרת טקסט לאודיו בכל המנועים (Google, Gemini, Edge)",
+              "en": "Text-to-speech on all engines (Google, Gemini, Edge)"
+            },
+            {
+              "he": "שמירת תבניות ונתונים בענן מאובטח",
+              "en": "Templates and data saved in secure cloud"
+            }
+          ],
+          "excludes": [
+            {
+              "he": "ללא מודול הורדת קבצים",
+              "en": "No file download module"
+            }
+          ]
+        },
+        {
+          "id": "download-only",
+          "name": {
+            "he": "הורדה בלבד",
+            "en": "Download only"
+          },
+          "tagline": {
+            "he": "למי שצריך רק להוריד",
+            "en": "For download-only needs"
+          },
+          "price": {
+            "amount": 130,
+            "currency": "ILS",
+            "period": "6-months"
+          },
+          "includes": [
+            {
+              "he": "צפייה בכל מודולי המערכת",
+              "en": "View all system modules"
+            },
+            {
+              "he": "הורדת קבצים מהירה ומתקדמת",
+              "en": "Fast, advanced file download"
+            }
+          ]
+        },
+        {
+          "id": "trial",
+          "name": {
+            "he": "ניסיון שבועיים",
+            "en": "Two-week trial"
+          },
+          "tagline": {
+            "he": "להתנסות בכל היכולות",
+            "en": "Try everything"
+          },
+          "price": {
+            "amount": 32,
+            "currency": "ILS",
+            "period": "14-days"
+          },
+          "includes": [
+            {
+              "he": "כל היכולות (מלבד הורדה)",
+              "en": "All capabilities except download"
+            },
+            {
+              "he": "תשלום חד פעמי",
+              "en": "One-time payment"
+            }
+          ]
+        },
+        {
+          "id": "tasks-addon",
+          "name": {
+            "he": "תוסף משימות",
+            "en": "Tasks add-on"
+          },
+          "tagline": {
+            "he": "מודול המשימות המתוזמנות",
+            "en": "Scheduled tasks module"
+          },
+          "price": {
+            "amount": 15,
+            "currency": "ILS",
+            "period": "monthly"
+          },
+          "addon": true,
+          "includes": [
+            {
+              "he": "הפעלת מודול המשימות",
+              "en": "Enables the tasks module"
+            },
+            {
+              "he": "סנכרון אוטומטי מתוזמן",
+              "en": "Scheduled automatic sync"
+            },
+            {
+              "he": "תוסף לכל תוכנית",
+              "en": "Add-on to any plan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "easy-call",
+      "name": {
+        "he": "Easy Call",
+        "en": "Easy Call"
+      },
+      "description": {
+        "he": "הופך כל שיחת טלפון לרשומת נתונים - הלקוח מחייג, המערכת מזהה אותו לפי המספר ושואלת, והתשובות נשמרות מסודרות ומסתנכרנות לגוגל שיטס",
+        "en": "Turns every phone call into a data record - the caller dials, the system identifies them by number and asks, and answers are stored and synced live to Google Sheets"
+      },
+      "pricing": "paid",
+      "page": "https://easy-call.dinobycloud.com/",
+      "price": {
+        "amount": 36,
+        "currency": "ILS",
+        "period": "monthly"
+      },
+      "trial": {
+        "he": "72 שעות ניסיון חינם, ללא כרטיס אשראי",
+        "en": "72-hour free trial, no credit card"
+      },
+      "buy": {
+        "email": "esaycall@abaye.co"
+      },
+      "order": 2
+    },
+    {
       "id": "itim",
+      "order": 10,
       "repo": "ItimHebrewCalendar",
       "name": {
         "he": "עיתים",

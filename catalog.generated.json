@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T18:24:41.606Z",
+  "generatedAt": "2026-07-16T18:30:21.214Z",
   "software": [
     {
       "id": "itim",
@@ -21,6 +21,7 @@
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 10,
       "downloads": 849,
+      "hasRelease": true,
       "release": {
         "tag": "v1.8.2",
         "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/tag/v1.8.2",
@@ -55,6 +56,7 @@
       "page": "https://abaye123.github.io/Kolsites/",
       "stars": 4,
       "downloads": 28,
+      "hasRelease": true,
       "release": {
         "tag": "v1.7.1",
         "url": "https://github.com/abaye123/Kolsites/releases/tag/v1.7.1",
@@ -88,6 +90,7 @@
       "page": "https://abaye123.github.io/TapLingo/",
       "stars": 2,
       "downloads": 66,
+      "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
         "url": "https://github.com/abaye123/TapLingo/releases/tag/v1.0.0",
@@ -120,6 +123,7 @@
       "pricing": "free",
       "stars": 0,
       "downloads": 0,
+      "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
         "url": "https://github.com/abaye123/Lumio/releases/tag/v1.0.0",
@@ -153,6 +157,7 @@
       "pricing": "free",
       "stars": 0,
       "downloads": null,
+      "hasRelease": false,
       "release": null
     },
     {
@@ -174,6 +179,7 @@
       "pricing": "free",
       "stars": 2,
       "downloads": 94,
+      "hasRelease": true,
       "release": {
         "tag": "v2.1.0",
         "url": "https://github.com/abaye123/Voltrix/releases/tag/v2.1.0",
@@ -207,6 +213,7 @@
       "pricing": "free",
       "stars": 2,
       "downloads": 6,
+      "hasRelease": true,
       "release": {
         "tag": "v0.3.0",
         "url": "https://github.com/abaye123/shchametai/releases/tag/v0.3.0",
@@ -245,6 +252,7 @@
       "pricing": "free",
       "stars": 1,
       "downloads": 8,
+      "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
         "url": "https://github.com/abaye123/LaserCounter/releases/tag/v1.0.0",
@@ -283,6 +291,7 @@
       "pricing": "free",
       "stars": 0,
       "downloads": 0,
+      "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
         "url": "https://github.com/abaye123/Snapfront/releases/tag/v1.0.0",

@@ -45,10 +45,15 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- catalog.generated.json; then
+          # Stage first, then diff the index. `git diff` alone ignores untracked
+          # files, so on the very first run — when catalog.generated.json does not
+          # exist in the repo yet — it reports "no changes" and the file never
+          # gets committed, leaving the site permanently on its fallback while
+          # this job still reports success.
+          git add catalog.generated.json
+          if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
-          git add catalog.generated.json
           git commit -m "chore: refresh catalog stats"
           git push

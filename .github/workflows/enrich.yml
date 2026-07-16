@@ -1,0 +1,54 @@
+name: Enrich catalog
+
+# Regenerates catalog.generated.json — the single file abaye.co fetches — from
+# catalog.json plus live GitHub data. Runs here rather than in the visitor's
+# browser so the API calls use GITHUB_TOKEN's 5,000/hour instead of the
+# unauthenticated 60/hour-per-IP that visitors would otherwise share.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - catalog.json
+      - scripts/**
+      - .github/workflows/enrich.yml
+  schedule:
+    # Every 6 hours, to pick up new stars/downloads/releases without a push.
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+# Needed to commit the regenerated file back to the repo.
+permissions:
+  contents: write
+
+# A scheduled run and a push run must not race each other into the same commit.
+concurrency:
+  group: enrich-catalog
+  cancel-in-progress: false
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate
+        run: node scripts/enrich.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- catalog.generated.json; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git add catalog.generated.json
+          git commit -m "chore: refresh catalog stats"
+          git push

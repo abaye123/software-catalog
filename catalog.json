@@ -1,0 +1,106 @@
+{
+  "software": [
+    {
+      "id": "itim",
+      "repo": "ItimHebrewCalendar",
+      "name": { "he": "עיתים", "en": "Itim" },
+      "description": {
+        "he": "לוח שנה עברי ל-Windows עם זמני היום בהלכה, בעיצוב Fluent של Windows 11",
+        "en": "A Hebrew calendar for Windows with halachic daily times, in Windows 11 Fluent design"
+      },
+      "tech": ["C#", "WinUI 3", ".NET 8"],
+      "pricing": "free",
+      "page": "https://abaye123.github.io/ItimHebrewCalendar/"
+    },
+    {
+      "id": "kolsites",
+      "repo": "Kolsites",
+      "name": { "he": "Kolsites", "en": "Kolsites" },
+      "description": {
+        "he": "תוכנת קיוסק לעמדות מחשב ציבוריות - נועלת את הגלישה לאתרים מאושרים בלבד",
+        "en": "A kiosk app for public computer stations - locks browsing to approved sites only"
+      },
+      "tech": ["C#", "WinUI 3", "WebView2"],
+      "pricing": "free",
+      "page": "https://abaye123.github.io/Kolsites/"
+    },
+    {
+      "id": "taplingo",
+      "repo": "TapLingo",
+      "name": { "he": "TapLingo", "en": "TapLingo" },
+      "description": {
+        "he": "תרגום מהיר של כל טקסט על המסך ב-Windows 11, עם אינטגרציה מלאה ל-Click to Do",
+        "en": "Instant on-screen translation for Windows 11, fully integrated with Click to Do"
+      },
+      "tech": ["C#", "WinUI 3"],
+      "pricing": "free",
+      "page": "https://abaye123.github.io/TapLingo/"
+    },
+    {
+      "id": "lumio",
+      "repo": "Lumio",
+      "name": { "he": "Lumio", "en": "Lumio" },
+      "description": {
+        "he": "כלי מגש מערכת להחלפת מצב כהה/בהיר ולשליטה בתאורת לילה - בקליק או בקיצור גלובלי",
+        "en": "A tray tool to toggle dark/light mode and control night light - by click or global hotkey"
+      },
+      "tech": ["C#", "WinUI 3"],
+      "pricing": "free"
+    },
+    {
+      "id": "et",
+      "repo": "Et",
+      "name": { "he": "עֵת", "en": "Et" },
+      "description": {
+        "he": "רישום היסטוריה אישית בצורה נוחה ומאובטחת, בעיצוב מודרני התואם ל-Windows 11",
+        "en": "Personal history logging, secure and convenient, in a modern Windows 11 design"
+      },
+      "tech": ["C#", "WinUI 3", ".NET 8"],
+      "pricing": "free"
+    },
+    {
+      "id": "voltrix",
+      "repo": "Voltrix",
+      "name": { "he": "Voltrix", "en": "Voltrix" },
+      "description": {
+        "he": "הצפנת קבצים שהמפתח שלה הוא המספר הסידורי של התקן USB או רכיב חומרה במחשב",
+        "en": "File encryption keyed to the serial number of a USB device or a hardware component"
+      },
+      "tech": ["Python", "PySide6", "cryptography"],
+      "pricing": "free"
+    },
+    {
+      "id": "shchametai",
+      "repo": "shchametai",
+      "name": { "he": "ShchametAI", "en": "ShchametAI" },
+      "description": {
+        "he": "אפליקציית שחמט חוצת-פלטפורמות עם מנוע מלא, יריב מחשב בשלוש רמות והצעות מהלך מ-Gemini",
+        "en": "A cross-platform chess app with a full engine, a three-level computer opponent and Gemini move hints"
+      },
+      "tech": ["Angular", "Tauri", "Gemini"],
+      "pricing": "free"
+    },
+    {
+      "id": "lasercounter",
+      "repo": "LaserCounter",
+      "name": { "he": "LaserCounter", "en": "LaserCounter" },
+      "description": {
+        "he": "מונה אותיות עברי עם סטטיסטיקה מפורטת ובחירה אילו תווים ייספרו",
+        "en": "A Hebrew letter counter with detailed statistics and control over which characters count"
+      },
+      "tech": ["Python", "PySide6"],
+      "pricing": "free"
+    },
+    {
+      "id": "snapfront",
+      "repo": "Snapfront",
+      "name": { "he": "Snapfront", "en": "Snapfront" },
+      "description": {
+        "he": "כלי זעיר שמביא תוכנה נבחרת לחזית בלחיצת מקש חם - ואם היא סגורה, מפעיל אותה",
+        "en": "A tiny tool that brings a chosen app to the front on a hotkey - and launches it if closed"
+      },
+      "tech": ["C#", "Win32"],
+      "pricing": "free"
+    }
+  ]
+}

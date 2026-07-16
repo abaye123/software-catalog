@@ -101,8 +101,16 @@ node scripts/enrich.mjs
 GITHUB_TOKEN=ghp_xxx node scripts/enrich.mjs
 ```
 
+**אל תדחוף את התוצאה של הרצה מקומית.** ה-Action כותב את אותו קובץ, ושני כותבים
+לאותו קובץ מייצרים קונפליקטים ב-git. להרצה מקומית יש ערך אחד: לראות מה ייצא לפני
+שדוחפים את `catalog.json`. אחרי הבדיקה:
+
+```bash
+git checkout catalog.generated.json
+```
+
 ---
 
 ## מה לא לערוך
 
-`catalog.generated.json` נוצר אוטומטית. כל שינוי ידני בו יידרס בהרצה הבאה.
+`catalog.generated.json` שייך ל-Action בלבד. כל שינוי ידני בו יידרס בהרצה הבאה.

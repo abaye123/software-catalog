@@ -2,16 +2,13 @@
   "software": [
     {
       "id": "cosmos",
+      "order": 1,
       "name": { "he": "קוסמוס", "en": "Cosmos" },
-      "description": {
-        "he": "פלטפורמה אחת לתפעול וניהול מתקדם של מערכות IVR של ימות המשיח - העתקה בין מערכות, תבניות, המרת טקסט לאודיו ובונה שאלונים",
-        "en": "One platform for operating and managing Yemot HaMashiach IVR systems - cross-system copying, templates, text-to-speech and a questionnaire builder"
-      },
+      "description": { "he": "פלטפורמה אחת לתפעול וניהול מתקדם של מערכות IVR של ימות המשיח - העתקה בין מערכות, תבניות, המרת טקסט לאודיו ובונה שאלונים", "en": "One platform for operating and managing Yemot HaMashiach IVR systems - cross-system copying, templates, text-to-speech and a questionnaire builder" },
       "pricing": "freemium",
       "page": "https://cosmos.abaye.co/",
       "price": { "amount": 45, "currency": "ILS", "period": "monthly", "from": true },
       "buy": { "url": "https://cosmos.abaye.co/#pricing" },
-      "order": 1,
       "plans": [
         {
           "id": "free",
@@ -66,7 +63,9 @@
             { "he": "המרת טקסט לאודיו בכל המנועים (Google, Gemini, Edge)", "en": "Text-to-speech on all engines (Google, Gemini, Edge)" },
             { "he": "שמירת תבניות ונתונים בענן מאובטח", "en": "Templates and data saved in secure cloud" }
           ],
-          "excludes": [{ "he": "ללא מודול הורדת קבצים", "en": "No file download module" }]
+          "excludes": [
+            { "he": "ללא מודול הורדת קבצים", "en": "No file download module" }
+          ]
         },
         {
           "id": "download-only",
@@ -104,119 +103,427 @@
     },
     {
       "id": "easy-call",
+      "order": 2,
       "name": { "he": "Easy Call", "en": "Easy Call" },
-      "description": {
-        "he": "הופך כל שיחת טלפון לרשומת נתונים - הלקוח מחייג, המערכת מזהה אותו לפי המספר ושואלת, והתשובות נשמרות מסודרות ומסתנכרנות לגוגל שיטס",
-        "en": "Turns every phone call into a data record - the caller dials, the system identifies them by number and asks, and answers are stored and synced live to Google Sheets"
-      },
+      "description": { "he": "הופך כל שיחת טלפון לרשומת נתונים - הלקוח מחייג, המערכת מזהה אותו לפי המספר ושואלת, והתשובות נשמרות מסודרות ומסתנכרנות לגוגל שיטס", "en": "Turns every phone call into a data record - the caller dials, the system identifies them by number and asks, and answers are stored and synced live to Google Sheets" },
       "pricing": "paid",
       "page": "https://easy-call.dinobycloud.com/",
       "price": { "amount": 36, "currency": "ILS", "period": "monthly" },
       "trial": { "he": "72 שעות ניסיון חינם, ללא כרטיס אשראי", "en": "72-hour free trial, no credit card" },
-      "buy": { "email": "esaycall@abaye.co" },
-      "order": 2
+      "buy": { "email": "esaycall@abaye.co" }
+    },
+    {
+      "id": "forms2call",
+      "order": 3,
+      "name": { "he": "Forms2Call", "en": "Forms2Call" },
+      "description": { "he": "הופך טופס Google Forms לשאלון טלפוני - בחירה הופכת לתפריט הקשה, טקסט חופשי לזיהוי דיבור, והתשובות נכנסות לטופס עצמו", "en": "Turns a Google Form into a phone questionnaire - choices become a keypad menu, free text becomes speech recognition, and answers land in the form itself" },
+      "tech": ["React", "Fastify", "Drizzle", "PostgreSQL"],
+      "pricing": "paid",
+      "page": "https://forms2call.dinobycloud.com/",
+      "price": { "amount": 16, "currency": "ILS", "period": "monthly", "from": true },
+      "trial": { "he": "שבוע ניסיון חינם - טופס אחד, עד 15 עונים, ללא כרטיס אשראי", "en": "One-week free trial - one form, up to 15 respondents, no credit card" },
+      "buy": { "email": "cs@abaye.co" },
+      "plans": [
+        {
+          "id": "single",
+          "name": { "he": "שאלון אחד", "en": "Single questionnaire" },
+          "tagline": { "he": "טופס אחד מחובר לשלוחה, ללא הגבלת עונים", "en": "One form wired to an extension, unlimited respondents" },
+          "price": { "amount": 16, "currency": "ILS", "period": "monthly" },
+          "includes": [
+            { "he": "שאלון אחד פעיל", "en": "One active questionnaire" },
+            { "he": "ללא הגבלת מגיבים", "en": "Unlimited respondents" },
+            { "he": "שליחה אוטומטית לטופס בגוגל", "en": "Automatic submission to the Google Form" },
+            { "he": "שליחה חוזרת של תגובות שנדחו", "en": "Automatic resend of rejected responses" }
+          ]
+        },
+        {
+          "id": "up-to-5",
+          "name": { "he": "עד 5 שאלונים", "en": "Up to 5 questionnaires" },
+          "tagline": { "he": "לארגונים שמריצים כמה טפסים במקביל", "en": "For organizations running several forms at once" },
+          "price": { "amount": 32, "currency": "ILS", "period": "monthly" },
+          "highlight": true,
+          "includes": [
+            { "he": "עד 5 שאלונים פעילים", "en": "Up to 5 active questionnaires" },
+            { "he": "ללא הגבלת מגיבים", "en": "Unlimited respondents" },
+            { "he": "שלוחה נפרדת לכל שאלון", "en": "A separate extension per questionnaire" },
+            { "he": "הגבלת מספר מחויג לכל שאלון", "en": "Per-questionnaire caller restrictions" },
+            { "he": "ריבוי מנהלים לארגון", "en": "Multiple admins per organization" }
+          ]
+        },
+        {
+          "id": "unlimited",
+          "name": { "he": "מעל 5 שאלונים", "en": "More than 5 questionnaires" },
+          "tagline": { "he": "צריכים יותר? נתפור לכם חבילה", "en": "Need more? We will tailor a package" },
+          "includes": [
+            { "he": "ללא הגבלת שאלונים", "en": "Unlimited questionnaires" },
+            { "he": "ליווי בהקמה", "en": "Guided onboarding" },
+            { "he": "תמיכה מועדפת", "en": "Priority support" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kavlog",
+      "order": 4,
+      "name": { "he": "KavLog", "en": "KavLog" },
+      "description": { "he": "הופך את לוגי ימות המשיח לדשבורדים חיים - מי מאזין, למה, מתי וכמה זמן", "en": "Turns Yemot HaMashiach call logs into live dashboards - who listens, to what, when and for how long" },
+      "tech": ["Next.js", "React", "shadcn/ui", "Drizzle", "PostgreSQL"],
+      "pricing": "paid",
+      "page": "https://kavlog.dinobycloud.com/",
+      "price": { "amount": 32, "currency": "ILS", "period": "monthly", "from": true },
+      "trial": { "he": "7 ימי ניסיון חינם עם כל היכולות המתקדמות", "en": "7-day free trial with every advanced capability" },
+      "buy": { "email": "cs@abaye.co" },
+      "plans": [
+        {
+          "id": "trial",
+          "name": { "he": "ניסיון", "en": "Trial" },
+          "tagline": { "he": "להתרשמות מלאה", "en": "A full look at the product" },
+          "price": { "amount": 0, "currency": "ILS", "period": "7-days" },
+          "includes": [
+            { "he": "גישה מלאה כולל היכולות המתקדמות", "en": "Full access including advanced capabilities" }
+          ],
+          "excludes": [
+            { "he": "ללא סנכרון אוטומטי", "en": "No automatic sync" }
+          ]
+        },
+        {
+          "id": "lifetime",
+          "name": { "he": "תשלום חד פעמי", "en": "One-time payment" },
+          "tagline": { "he": "גישה לכל החיים", "en": "Lifetime access" },
+          "price": { "amount": 1200, "currency": "ILS", "period": "one-time" },
+          "highlight": true,
+          "badge": { "he": "הכי משתלם", "en": "Best value" },
+          "includes": [
+            { "he": "גישה בלתי מוגבלת לכל החיים", "en": "Unlimited lifetime access" },
+            { "he": "כל היכולות המתקדמות", "en": "All advanced capabilities" },
+            { "he": "סנכרון אוטומטי בכל שעה", "en": "Hourly automatic sync" },
+            { "he": "הזמנת משתמשים נוספים", "en": "Invite additional users" },
+            { "he": "גיבוי, שחזור וניקוי נתונים", "en": "Backup, restore and data cleanup" }
+          ]
+        },
+        {
+          "id": "monthly",
+          "name": { "he": "מנוי חודשי", "en": "Monthly" },
+          "tagline": { "he": "לעבודה שוטפת", "en": "For ongoing work" },
+          "price": { "amount": 32, "currency": "ILS", "period": "monthly" },
+          "includes": [
+            { "he": "גישה מלאה כל עוד המנוי פעיל", "en": "Full access while the subscription is active" },
+            { "he": "כל היכולות המתקדמות", "en": "All advanced capabilities" },
+            { "he": "סנכרון אוטומטי בכל שעה", "en": "Hourly automatic sync" },
+            { "he": "הזמנת משתמשים נוספים", "en": "Invite additional users" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dontee",
+      "order": 5,
+      "name": { "he": "Dontee", "en": "Dontee" },
+      "description": { "he": "ניהול קמפייני התרמה למוסדות - סנכרון תרומות מנדרים פלוס, יעדים לפי כיתות וקבוצות, הגרלות, תצוגות לייב ומענה קולי 24/7", "en": "Fundraising campaign management for institutions - donation sync from Nedarim Plus, per-class and per-group goals, raffles, live displays and a 24/7 phone line" },
+      "tech": ["Vue 3", "Quasar", "ApexCharts"],
+      "pricing": "paid",
+      "page": "https://dontee.abaye.co/",
+      "price": { "amount": 620, "currency": "ILS", "period": "45-days" },
+      "trial": { "he": "תקופת ניסיון חינם, ללא כרטיס אשראי", "en": "Free trial period, no credit card" },
+      "buy": { "url": "https://dontee.abaye.co/" },
+      "plans": [
+        {
+          "id": "campaign",
+          "name": { "he": "קמפיין", "en": "Campaign" },
+          "tagline": { "he": "החבילה המושלמת לישיבות ותתי\"ם", "en": "The complete package for yeshivas and institutions" },
+          "price": { "amount": 620, "currency": "ILS", "period": "45-days" },
+          "highlight": true,
+          "note": { "he": "המחירים אינם כוללים מע\"מ", "en": "Prices exclude VAT" },
+          "includes": [
+            { "he": "שימוש בלתי מוגבל בכל הכלים", "en": "Unlimited use of every tool" },
+            { "he": "מוסד אחד בנדרים פלוס ללא תוספת תשלום", "en": "One Nedarim Plus institution at no extra cost" },
+            { "he": "תמיכה טכנית מלאה", "en": "Full technical support" }
+          ]
+        },
+        {
+          "id": "ivr-addon",
+          "name": { "he": "תוסף מענה קולי", "en": "Phone line add-on" },
+          "tagline": { "he": "קו לשמיעת נתוני הקמפיין", "en": "A line for hearing campaign figures" },
+          "price": { "amount": 100, "currency": "ILS", "period": "one-time" },
+          "addon": true,
+          "includes": [
+            { "he": "מענה קולי לנתוני הקמפיין 24/7", "en": "24/7 phone access to campaign figures" }
+          ]
+        },
+        {
+          "id": "institution-addon",
+          "name": { "he": "מוסד נוסף", "en": "Additional institution" },
+          "tagline": { "he": "לכל מוסד נוסף בנדרים פלוס", "en": "Per additional Nedarim Plus institution" },
+          "price": { "amount": 120, "currency": "ILS", "period": "one-time" },
+          "addon": true,
+          "includes": [
+            { "he": "חיבור מוסד נוסף בנדרים פלוס", "en": "Connects one more Nedarim Plus institution" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "donboy",
+      "order": 6,
+      "name": { "he": "Donboy", "en": "Donboy" },
+      "description": { "he": "ניהול תרומות ותורמים לקבוצות איסוף וסוכני שטח - מסלולי איסוף על מפה, הקצאת משימות, קבלות וריבוי מטבעות ודוחות מתקדמים", "en": "Donation and donor management for collection groups and field agents - map-based collection routes, task assignment, receipts, multi-currency and advanced reports" },
+      "tech": ["Vue 3", "Quasar", "ApexCharts"],
+      "pricing": "paid",
+      "page": "https://donboy.abaye.co/",
+      "price": { "amount": 1500, "currency": "ILS", "period": "yearly" },
+      "trial": { "he": "שבוע ניסיון מלא, בלי כרטיס אשראי", "en": "A full trial week, no credit card" },
+      "buy": { "url": "https://donboy.abaye.co/" },
+      "plans": [
+        {
+          "id": "classic",
+          "name": { "he": "תוכנית קלאסית", "en": "Classic" },
+          "tagline": { "he": "עבור ארגונים מקצועיים", "en": "For professional organizations" },
+          "price": { "amount": 1500, "currency": "ILS", "period": "yearly" },
+          "highlight": true,
+          "includes": [
+            { "he": "כל התכונות ללא הגבלה", "en": "Every feature, unlimited" },
+            { "he": "גיבויים אוטומטיים יומיים", "en": "Daily automatic backups" },
+            { "he": "הדרכה אישית מלאה", "en": "Full personal onboarding" },
+            { "he": "תמיכה טכנית מועדפת 24/7", "en": "Priority technical support, 24/7" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shulchoni",
+      "order": 7,
+      "name": { "he": "שולחני", "en": "Shulchoni" },
+      "description": { "he": "ארנק דיגיטלי למוסדות - לכל משתמש יתרה שנטענת באשראי או במזומן, ומשלמים איתה בחנות ובעמדת המכירה בלי מזומן ובלי עודף", "en": "A digital wallet for institutions - every user holds a balance topped up by card or cash, spent at the in-house store and POS with no cash and no change" },
+      "tech": ["Vue 3", "Express", "Prisma", "MySQL"],
+      "pricing": "paid",
+      "page": "https://shulchoni.abaye.co/",
+      "buy": { "email": "shulchoni@abaye.co" }
+    },
+    {
+      "id": "maslultchik",
+      "order": 8,
+      "name": { "he": "מסלולצ'יק", "en": "Maslultchik" },
+      "description": { "he": "מיטוב מסלולי חלוקה מבוסס Google Maps - מייבאים כתובות מאקסל, מקבלים מסלול ממוטב על מפה אינטראקטיבית ומייצאים בחזרה", "en": "Google Maps-based delivery route optimization - import addresses from Excel, get an optimized route on an interactive map, and export it back" },
+      "tech": ["Next.js", "Google Maps", "Google Routes API"],
+      "pricing": "paid",
+      "page": "https://maslultchik-kupat.dinobycloud.com/",
+      "buy": { "email": "cs@abaye.co" }
+    },
+    {
+      "id": "shaleek",
+      "order": 9,
+      "name": { "he": "שאליק", "en": "Shaleek" },
+      "description": { "he": "ניהול השאלת מכשירים וקווי טלפון בישיבות - רישום בחורים ומכשירים, חסימה ופתיחה של מספרים, ותעריפים, חובות ותשלומים", "en": "Manages phone and device lending in yeshivas - registering students and devices, blocking and unblocking numbers, and tariffs, debts and payments" },
+      "tech": ["Vue 3", "Vite"],
+      "pricing": "paid",
+      "page": "https://shaleek.abaye.co/",
+      "buy": { "email": "cs@abaye.co" }
+    },
+    {
+      "id": "gift-card-topup",
+      "order": 10,
+      "name": { "he": "טעינת כרטיסי מתנה", "en": "Gift Card Top-up" },
+      "description": { "he": "מערכת להזמנת טעינות לכרטיסי מתנה בכרטיס אשראי - באתר ובטלפון, כולל טעינה מרוכזת מאקסל, קודי הנחה וקבלות אוטומטיות", "en": "A system for ordering gift-card top-ups by credit card - online and by phone, with bulk top-up from Excel, discount codes and automatic receipts" },
+      "tech": ["Nuxt 4", "Vue 3", "Drizzle", "MySQL"],
+      "pricing": "paid",
+      "buy": { "email": "cs@abaye.co" }
+    },
+    {
+      "id": "kiosk-launcher",
+      "order": 11,
+      "name": { "he": "KioskLauncher", "en": "KioskLauncher" },
+      "description": { "he": "נועל מכשיר אנדרואיד למצב קיוסק - משגר מוגבל לאתר או לרשימת אפליקציות, עם ניהול מרחוק ועדכונים שקטים", "en": "Locks an Android device into kiosk mode - a restricted launcher for one site or an app list, with remote management and silent updates" },
+      "tech": ["Kotlin", "Jetpack Compose", "Ktor"],
+      "pricing": "paid",
+      "buy": { "email": "cs@abaye.co" }
+    },
+    {
+      "id": "google-sheets-reader",
+      "order": 12,
+      "name": { "he": "קורא גוגל שיטס לימות", "en": "Google Sheets Reader for Yemot" },
+      "description": { "he": "מקריא למתקשר נתונים אישיים מגוגל שיטס פרטי לפי מספר הטלפון שלו, בשלוחת API של ימות המשיח", "en": "Reads a caller their own data from a private Google Sheet, matched by phone number, on a Yemot HaMashiach API extension" },
+      "tech": ["PHP", "Google Sheets API"],
+      "pricing": "paid",
+      "buy": { "email": "cs@abaye.co" }
+    },
+    {
+      "id": "upspeedpro",
+      "order": 13,
+      "name": { "he": "UpSpeedPro", "en": "UpSpeedPro" },
+      "description": { "he": "העלאה מהירה ומרוכזת של קבצים מהמחשב לשלוחות בימות המשיח, עם מערכות ויעדים שמורים", "en": "Fast bulk uploading of files from the PC to Yemot HaMashiach extensions, with saved systems and destinations" },
+      "tech": ["C#", "WinForms", ".NET Framework"],
+      "pricing": "paid",
+      "buy": { "email": "cs@abaye.co" }
+    },
+    {
+      "id": "shiuraya-desktop",
+      "order": 14,
+      "name": { "he": "שיעוריא", "en": "Shiuraya" },
+      "description": { "he": "עמדת העתקה לשיעורים ומוזיקה - המשתמש בוחר קבצים מהספרייה ומעתיק אותם לכונן חיצוני, במצב קיוסק נעול", "en": "A copying station for shiurim and music - the user picks files from the library and copies them to an external drive, in locked kiosk mode" },
+      "tech": ["C#", "WinUI 3", ".NET 8"],
+      "pricing": "paid",
+      "buy": { "email": "cs@abaye.co" }
+    },
+    {
+      "id": "otzar-kiosk",
+      "order": 15,
+      "name": { "he": "OtzarKioskApp", "en": "OtzarKioskApp" },
+      "description": { "he": "אפליקציית קיוסק להפעלת אוצר החכמה בעמדות ציבוריות בסביבה נעולה", "en": "A kiosk app for running Otzar HaChochma on public stations in a locked-down environment" },
+      "pricing": "paid",
+      "buy": { "email": "cs@abaye.co" }
     },
     {
       "id": "itim",
-      "order": 10,
+      "order": 16,
       "repo": "ItimHebrewCalendar",
       "name": { "he": "עיתים", "en": "Itim" },
-      "description": {
-        "he": "לוח שנה עברי ל-Windows עם זמני היום בהלכה, בעיצוב Fluent של Windows 11",
-        "en": "A Hebrew calendar for Windows with halachic daily times, in Windows 11 Fluent design"
-      },
+      "description": { "he": "לוח שנה עברי ל-Windows עם זמני היום בהלכה, בעיצוב Fluent של Windows 11", "en": "A Hebrew calendar for Windows with halachic daily times, in Windows 11 Fluent design" },
       "tech": ["C#", "WinUI 3", ".NET 8"],
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/"
     },
     {
+      "id": "yemot-api-tester",
+      "order": 17,
+      "name": { "he": "בודק API לימות", "en": "Yemot API Tester" },
+      "description": { "he": "בונה ובודק מחרוזות API של ימות המשיח - ולידציה בזמן אמת ואיתור המקטע התקול בשיחה חיה בחיפוש בינארי", "en": "Builds and tests Yemot HaMashiach API strings - real-time validation and pinpointing the faulty segment during a live call by binary search" },
+      "tech": ["React", "Vite"],
+      "pricing": "free",
+      "page": "https://yemot-api-tester.abaye.co/",
+      "access": { "he": "ההרשמה לשירות נעשית דרך שירות הלקוחות", "en": "Registration is arranged through customer service" }
+    },
+    {
+      "id": "time-flow",
+      "order": 18,
+      "name": { "he": "TimeFlow", "en": "TimeFlow" },
+      "description": { "he": "רישום שעות עבודה לפרילנסרים בעברית - שמירה מקומית ובענן, כולל שיתוף אונליין עם מזמין העבודה", "en": "Hebrew work-hour tracking for freelancers - saved locally and in the cloud, with online sharing to the client" },
+      "tech": ["Angular", "Firestore"],
+      "pricing": "free",
+      "page": "https://time-flow.dinobycloud.com/"
+    },
+    {
       "id": "kolsites",
+      "order": 19,
       "repo": "Kolsites",
       "name": { "he": "Kolsites", "en": "Kolsites" },
-      "description": {
-        "he": "תוכנת קיוסק לעמדות מחשב ציבוריות - נועלת את הגלישה לאתרים מאושרים בלבד",
-        "en": "A kiosk app for public computer stations - locks browsing to approved sites only"
-      },
+      "description": { "he": "תוכנת קיוסק לעמדות מחשב ציבוריות - נועלת את הגלישה לאתרים מאושרים בלבד", "en": "A kiosk app for public computer stations - locks browsing to approved sites only" },
       "tech": ["C#", "WinUI 3", "WebView2"],
       "pricing": "free",
       "page": "https://abaye123.github.io/Kolsites/"
     },
     {
       "id": "taplingo",
+      "order": 20,
       "repo": "TapLingo",
       "name": { "he": "TapLingo", "en": "TapLingo" },
-      "description": {
-        "he": "תרגום מהיר של כל טקסט על המסך ב-Windows 11, עם אינטגרציה מלאה ל-Click to Do",
-        "en": "Instant on-screen translation for Windows 11, fully integrated with Click to Do"
-      },
+      "description": { "he": "תרגום מהיר של כל טקסט על המסך ב-Windows 11, עם אינטגרציה מלאה ל-Click to Do", "en": "Instant on-screen translation for Windows 11, fully integrated with Click to Do" },
       "tech": ["C#", "WinUI 3"],
       "pricing": "free",
       "page": "https://abaye123.github.io/TapLingo/"
     },
     {
       "id": "lumio",
+      "order": 21,
       "repo": "Lumio",
       "name": { "he": "Lumio", "en": "Lumio" },
-      "description": {
-        "he": "כלי מגש מערכת להחלפת מצב כהה/בהיר ולשליטה בתאורת לילה - בקליק או בקיצור גלובלי",
-        "en": "A tray tool to toggle dark/light mode and control night light - by click or global hotkey"
-      },
+      "description": { "he": "כלי מגש מערכת להחלפת מצב כהה/בהיר ולשליטה בתאורת לילה - בקליק או בקיצור גלובלי", "en": "A tray tool to toggle dark/light mode and control night light - by click or global hotkey" },
       "tech": ["C#", "WinUI 3"],
       "pricing": "free"
     },
     {
       "id": "et",
+      "order": 22,
       "repo": "Et",
       "name": { "he": "עֵת", "en": "Et" },
-      "description": {
-        "he": "רישום היסטוריה אישית בצורה נוחה ומאובטחת, בעיצוב מודרני התואם ל-Windows 11",
-        "en": "Personal history logging, secure and convenient, in a modern Windows 11 design"
-      },
+      "description": { "he": "רישום היסטוריה אישית בצורה נוחה ומאובטחת, בעיצוב מודרני התואם ל-Windows 11", "en": "Personal history logging, secure and convenient, in a modern Windows 11 design" },
       "tech": ["C#", "WinUI 3", ".NET 8"],
       "pricing": "free"
     },
     {
       "id": "voltrix",
+      "order": 23,
       "repo": "Voltrix",
       "name": { "he": "Voltrix", "en": "Voltrix" },
-      "description": {
-        "he": "הצפנת קבצים שהמפתח שלה הוא המספר הסידורי של התקן USB או רכיב חומרה במחשב",
-        "en": "File encryption keyed to the serial number of a USB device or a hardware component"
-      },
+      "description": { "he": "הצפנת קבצים שהמפתח שלה הוא המספר הסידורי של התקן USB או רכיב חומרה במחשב", "en": "File encryption keyed to the serial number of a USB device or a hardware component" },
       "tech": ["Python", "PySide6", "cryptography"],
       "pricing": "free"
     },
     {
       "id": "shchametai",
+      "order": 24,
       "repo": "shchametai",
       "name": { "he": "ShchametAI", "en": "ShchametAI" },
-      "description": {
-        "he": "אפליקציית שחמט חוצת-פלטפורמות עם מנוע מלא, יריב מחשב בשלוש רמות והצעות מהלך מ-Gemini",
-        "en": "A cross-platform chess app with a full engine, a three-level computer opponent and Gemini move hints"
-      },
+      "description": { "he": "אפליקציית שחמט חוצת-פלטפורמות עם מנוע מלא, יריב מחשב בשלוש רמות והצעות מהלך מ-Gemini", "en": "A cross-platform chess app with a full engine, a three-level computer opponent and Gemini move hints" },
       "tech": ["Angular", "Tauri", "Gemini"],
       "pricing": "free"
     },
     {
       "id": "lasercounter",
+      "order": 25,
       "repo": "LaserCounter",
       "name": { "he": "LaserCounter", "en": "LaserCounter" },
-      "description": {
-        "he": "מונה אותיות עברי עם סטטיסטיקה מפורטת ובחירה אילו תווים ייספרו",
-        "en": "A Hebrew letter counter with detailed statistics and control over which characters count"
-      },
+      "description": { "he": "מונה אותיות עברי עם סטטיסטיקה מפורטת ובחירה אילו תווים ייספרו", "en": "A Hebrew letter counter with detailed statistics and control over which characters count" },
       "tech": ["Python", "PySide6"],
       "pricing": "free"
     },
     {
       "id": "snapfront",
+      "order": 26,
       "repo": "Snapfront",
       "name": { "he": "Snapfront", "en": "Snapfront" },
-      "description": {
-        "he": "כלי זעיר שמביא תוכנה נבחרת לחזית בלחיצת מקש חם - ואם היא סגורה, מפעיל אותה",
-        "en": "A tiny tool that brings a chosen app to the front on a hotkey - and launches it if closed"
-      },
+      "description": { "he": "כלי זעיר שמביא תוכנה נבחרת לחזית בלחיצת מקש חם - ואם היא סגורה, מפעיל אותה", "en": "A tiny tool that brings a chosen app to the front on a hotkey - and launches it if closed" },
       "tech": ["C#", "Win32"],
+      "pricing": "free"
+    },
+    {
+      "id": "zerach-explorer",
+      "order": 27,
+      "repo": "ZerachExplorer",
+      "name": { "he": "ZerachExplorer", "en": "ZerachExplorer" },
+      "description": { "he": "סייר קבצים מאובטח לעמדות ציבוריות - חוסם את כונן C ותיקיות מוסתרות ומתיר רק סוגי קבצים מאושרים", "en": "A secure file explorer for public stations - blocks the C drive and hidden folders and permits only approved file types" },
+      "tech": ["C#", "Windows Forms"],
+      "pricing": "free"
+    },
+    {
+      "id": "fat32formatter",
+      "order": 28,
+      "repo": "FAT32Formatter",
+      "name": { "he": "FAT32Formatter", "en": "FAT32Formatter" },
+      "description": { "he": "מפרמט כרטיסי SD ודיסקים לפורמט FAT32 בכל נפח, עם גיבוי הקבצים לפני הפרמוט ושחזור אחריו", "en": "Formats SD cards and drives to FAT32 at any capacity, backing the files up before formatting and restoring them after" },
+      "tech": ["Python", "PySide6", "Win32"],
+      "pricing": "free"
+    },
+    {
+      "id": "talmudformulas",
+      "order": 29,
+      "repo": "TalmudFormulas",
+      "name": { "he": "TalmudFormulas", "en": "TalmudFormulas" },
+      "description": { "he": "השוואת נוסחי עדי הטקסט של התלמוד הבבלי, עם הדגשה אוטומטית של חילופי נוסח ברמת המילה", "en": "Compares textual witnesses of the Babylonian Talmud, automatically highlighting word-level variants" },
+      "tech": ["C#", "WinUI 3", ".NET 8", "SQLite"],
+      "pricing": "free"
+    },
+    {
+      "id": "audioanalyzer",
+      "order": 30,
+      "repo": "AudioAnalyzer",
+      "name": { "he": "AudioAnalyzer", "en": "AudioAnalyzer" },
+      "description": { "he": "ניתוח קבצי אודיו - זיהוי BPM, סולם ומפתח מוזיקלי וניתוח ספקטרלי, עם נגן מובנה וייצוא התוצאות", "en": "Audio file analysis - BPM, musical key and scale detection and spectral analysis, with a built-in player and result export" },
+      "tech": ["Python", "PySide6", "librosa"],
+      "pricing": "free"
+    },
+    {
+      "id": "zboard",
+      "order": 31,
+      "name": { "he": "ZBoard", "en": "ZBoard" },
+      "description": { "he": "מקלדת אנדרואיד לעמדות קיוסק ומכשירים נעולים", "en": "An Android keyboard for kiosk stations and locked-down devices" },
+      "pricing": "free"
+    },
+    {
+      "id": "fileopener",
+      "order": 32,
+      "name": { "he": "FileOpener", "en": "FileOpener" },
+      "description": { "he": "שומר רשימת קבצים נבחרים באנדרואיד ופותח כל אחד מהם באפליקציית ברירת המחדל בלחיצה אחת", "en": "Keeps a list of chosen files on Android and opens each one in its default app with a single tap" },
+      "tech": ["Kotlin", "Jetpack Compose"],
       "pricing": "free"
     }
   ]

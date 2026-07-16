@@ -83,6 +83,11 @@ const enrich = async (item, previousById) => {
       ...item,
       stars: repo?.stars ?? null,
       downloads: release?.downloads ?? null,
+      // Authoritative, and overrides anything hand-written in catalog.json: a
+      // repo with no published release must not get a download button, because
+      // /releases/latest 404s for it. Deriving this from the API means it fixes
+      // itself the moment a release is published — nobody has to remember a flag.
+      hasRelease: Boolean(release),
       release: release
         ? { tag: release.tag, url: release.url, publishedAt: release.publishedAt, assets: release.assets }
         : null,
@@ -99,6 +104,9 @@ const enrich = async (item, previousById) => {
       ...item,
       stars: prev?.stars ?? null,
       downloads: prev?.downloads ?? null,
+      // Carry the previous verdict too. Defaulting to true on a failed lookup
+      // would resurrect a 404 download button for release-less software.
+      hasRelease: prev?.hasRelease ?? false,
       release: prev?.release ?? null,
       staleSince: prev ? prev.staleSince || new Date().toISOString() : undefined,
     }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T20:10:29.329Z",
+  "generatedAt": "2026-07-17T01:50:16.438Z",
   "software": [
     {
       "id": "cosmos",
@@ -964,7 +964,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 10,
-      "downloads": 850,
+      "downloads": 852,
       "hasRelease": true,
       "release": {
         "tag": "v1.8.2",
@@ -975,7 +975,7 @@
             "name": "ItimHebrewCalendar-Setup-1.8.2.exe",
             "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/download/v1.8.2/ItimHebrewCalendar-Setup-1.8.2.exe",
             "size": 78255186,
-            "downloads": 55
+            "downloads": 57
           }
         ]
       }
@@ -1242,7 +1242,7 @@
       ],
       "pricing": "free",
       "stars": 1,
-      "downloads": 8,
+      "downloads": 9,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
@@ -1259,7 +1259,7 @@
             "name": "Laser_Counter_Setup_1.0.0.exe",
             "url": "https://github.com/abaye123/LaserCounter/releases/download/v1.0.0/Laser_Counter_Setup_1.0.0.exe",
             "size": 24620112,
-            "downloads": 0
+            "downloads": 1
           }
         ]
       }

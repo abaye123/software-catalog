@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T08:09:26.312Z",
+  "generatedAt": "2026-07-26T18:57:30.794Z",
   "software": [
     {
       "id": "cosmos",
@@ -964,7 +964,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 10,
-      "downloads": 866,
+      "downloads": 867,
       "hasRelease": true,
       "release": {
         "tag": "v1.8.2",
@@ -1075,7 +1075,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/TapLingo/",
       "stars": 2,
-      "downloads": 66,
+      "downloads": 67,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
@@ -1086,7 +1086,7 @@
             "name": "TapLingo-Setup-1.0.0.exe",
             "url": "https://github.com/abaye123/TapLingo/releases/download/v1.0.0/TapLingo-Setup-1.0.0.exe",
             "size": 8222024,
-            "downloads": 66
+            "downloads": 67
           }
         ]
       }

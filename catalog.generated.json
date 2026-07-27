@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T18:57:30.794Z",
+  "generatedAt": "2026-07-27T14:11:27.364Z",
   "software": [
     {
       "id": "cosmos",
@@ -1282,7 +1282,7 @@
       ],
       "pricing": "free",
       "stars": 0,
-      "downloads": 0,
+      "downloads": 1,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
@@ -1293,7 +1293,7 @@
             "name": "Snapfront_v1.0.0.zip",
             "url": "https://github.com/abaye123/Snapfront/releases/download/v1.0.0/Snapfront_v1.0.0.zip",
             "size": 88945,
-            "downloads": 0
+            "downloads": 1
           }
         ]
       }
@@ -1440,7 +1440,7 @@
       ],
       "pricing": "free",
       "stars": 1,
-      "downloads": 4,
+      "downloads": 5,
       "hasRelease": true,
       "release": {
         "tag": "v1.2.0",
@@ -1451,7 +1451,7 @@
             "name": "audio_analyzer_v1.2.0.exe",
             "url": "https://github.com/abaye123/AudioAnalyzer/releases/download/v1.2.0/audio_analyzer_v1.2.0.exe",
             "size": 170800168,
-            "downloads": 3
+            "downloads": 4
           }
         ]
       }

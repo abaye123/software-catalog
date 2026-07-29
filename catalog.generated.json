@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T01:45:36.457Z",
+  "generatedAt": "2026-07-29T13:46:36.853Z",
   "software": [
     {
       "id": "cosmos",
@@ -964,7 +964,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 10,
-      "downloads": 867,
+      "downloads": 868,
       "hasRelease": true,
       "release": {
         "tag": "v1.8.2",
@@ -975,7 +975,7 @@
             "name": "ItimHebrewCalendar-Setup-1.8.2.exe",
             "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/download/v1.8.2/ItimHebrewCalendar-Setup-1.8.2.exe",
             "size": 78255186,
-            "downloads": 71
+            "downloads": 72
           }
         ]
       }
@@ -1167,7 +1167,7 @@
       ],
       "pricing": "free",
       "stars": 2,
-      "downloads": 95,
+      "downloads": 96,
       "hasRelease": true,
       "release": {
         "tag": "v2.1.0",
@@ -1178,7 +1178,7 @@
             "name": "Voltrix_setop_2.1.0_signed.exe",
             "url": "https://github.com/abaye123/Voltrix/releases/download/v2.1.0/Voltrix_setop_2.1.0_signed.exe",
             "size": 70424864,
-            "downloads": 56
+            "downloads": 57
           }
         ]
       }

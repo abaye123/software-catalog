@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T18:58:23.910Z",
+  "generatedAt": "2026-07-30T01:28:07.431Z",
   "software": [
     {
       "id": "cosmos",
@@ -964,7 +964,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 10,
-      "downloads": 870,
+      "downloads": 871,
       "hasRelease": true,
       "release": {
         "tag": "v1.8.2",
@@ -975,7 +975,7 @@
             "name": "ItimHebrewCalendar-Setup-1.8.2.exe",
             "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/download/v1.8.2/ItimHebrewCalendar-Setup-1.8.2.exe",
             "size": 78255186,
-            "downloads": 74
+            "downloads": 75
           }
         ]
       }
@@ -1316,7 +1316,7 @@
       ],
       "pricing": "free",
       "stars": 5,
-      "downloads": 221,
+      "downloads": 222,
       "hasRelease": true,
       "release": {
         "tag": "1.4.0",
@@ -1333,7 +1333,7 @@
             "name": "ZerachExplorer_setop_1.4.0_signed.exe",
             "url": "https://github.com/abaye123/ZerachExplorer/releases/download/1.4.0/ZerachExplorer_setop_1.4.0_signed.exe",
             "size": 3139680,
-            "downloads": 135
+            "downloads": 136
           }
         ]
       }
@@ -1357,7 +1357,7 @@
       ],
       "pricing": "free",
       "stars": 0,
-      "downloads": 129,
+      "downloads": 131,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
@@ -1368,7 +1368,7 @@
             "name": "FAT32Formatter_v1.0.0.exe",
             "url": "https://github.com/abaye123/FAT32Formatter/releases/download/v1.0.0/FAT32Formatter_v1.0.0.exe",
             "size": 22423528,
-            "downloads": 100
+            "downloads": 101
           },
           {
             "name": "FAT32Formatter_v1.0.0_password_123.rar",
@@ -1380,7 +1380,7 @@
             "name": "FAT32Formatter_v1.0.0_password_123.zip",
             "url": "https://github.com/abaye123/FAT32Formatter/releases/download/v1.0.0/FAT32Formatter_v1.0.0_password_123.zip",
             "size": 22366781,
-            "downloads": 16
+            "downloads": 17
           }
         ]
       }

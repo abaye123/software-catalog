@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T23:50:08.437Z",
+  "generatedAt": "2026-08-07T18:40:16.572Z",
   "software": [
     {
       "id": "cosmos",
@@ -1040,7 +1040,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/Kolsites/",
       "stars": 4,
-      "downloads": 28,
+      "downloads": 29,
       "hasRelease": true,
       "release": {
         "tag": "v1.7.1",
@@ -1051,7 +1051,7 @@
             "name": "Kolsites-Setup-1.7.1.exe",
             "url": "https://github.com/abaye123/Kolsites/releases/download/v1.7.1/Kolsites-Setup-1.7.1.exe",
             "size": 9728213,
-            "downloads": 4
+            "downloads": 5
           }
         ]
       }

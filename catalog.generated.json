@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T00:55:34.491Z",
+  "generatedAt": "2026-08-09T18:25:32.246Z",
   "software": [
     {
       "id": "cosmos",
@@ -1205,20 +1205,20 @@
       "downloads": 6,
       "hasRelease": true,
       "release": {
-        "tag": "v0.3.0",
-        "url": "https://github.com/abaye123/shchametai/releases/tag/v0.3.0",
-        "publishedAt": "2026-02-05T15:56:45Z",
+        "tag": "v0.4.0",
+        "url": "https://github.com/abaye123/shchametai/releases/tag/v0.4.0",
+        "publishedAt": "2026-08-09T15:55:11Z",
         "assets": [
           {
-            "name": "shchametai_0.3.0_x64-setup.exe",
-            "url": "https://github.com/abaye123/shchametai/releases/download/v0.3.0/shchametai_0.3.0_x64-setup.exe",
-            "size": 3985265,
-            "downloads": 3
+            "name": "shchametai_0.4.0_x64-setup.exe",
+            "url": "https://github.com/abaye123/shchametai/releases/download/v0.4.0/shchametai_0.4.0_x64-setup.exe",
+            "size": 4028417,
+            "downloads": 0
           },
           {
-            "name": "shchametai_0.3.0_x64_en-US.msi",
-            "url": "https://github.com/abaye123/shchametai/releases/download/v0.3.0/shchametai_0.3.0_x64_en-US.msi",
-            "size": 4276224,
+            "name": "shchametai_0.4.0_x64_en-US.msi",
+            "url": "https://github.com/abaye123/shchametai/releases/download/v0.4.0/shchametai_0.4.0_x64_en-US.msi",
+            "size": 4321280,
             "downloads": 0
           }
         ]
@@ -1316,7 +1316,7 @@
       ],
       "pricing": "free",
       "stars": 5,
-      "downloads": 223,
+      "downloads": 224,
       "hasRelease": true,
       "release": {
         "tag": "1.4.0",
@@ -1333,7 +1333,7 @@
             "name": "ZerachExplorer_setop_1.4.0_signed.exe",
             "url": "https://github.com/abaye123/ZerachExplorer/releases/download/1.4.0/ZerachExplorer_setop_1.4.0_signed.exe",
             "size": 3139680,
-            "downloads": 137
+            "downloads": 138
           }
         ]
       }

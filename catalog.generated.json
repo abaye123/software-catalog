@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T07:08:54.334Z",
+  "generatedAt": "2026-08-12T12:44:51.733Z",
   "software": [
     {
       "id": "cosmos",
@@ -964,7 +964,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 11,
-      "downloads": 883,
+      "downloads": 885,
       "hasRelease": true,
       "release": {
         "tag": "v1.8.2",
@@ -975,7 +975,7 @@
             "name": "ItimHebrewCalendar-Setup-1.8.2.exe",
             "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/download/v1.8.2/ItimHebrewCalendar-Setup-1.8.2.exe",
             "size": 78255186,
-            "downloads": 83
+            "downloads": 85
           }
         ]
       }
@@ -1040,7 +1040,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/Kolsites/",
       "stars": 4,
-      "downloads": 29,
+      "downloads": 30,
       "hasRelease": true,
       "release": {
         "tag": "v1.7.1",
@@ -1051,7 +1051,7 @@
             "name": "Kolsites-Setup-1.7.1.exe",
             "url": "https://github.com/abaye123/Kolsites/releases/download/v1.7.1/Kolsites-Setup-1.7.1.exe",
             "size": 9728213,
-            "downloads": 5
+            "downloads": 6
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T12:46:30.846Z",
+  "generatedAt": "2026-08-13T18:49:56.442Z",
   "software": [
     {
       "id": "cosmos",
@@ -1405,7 +1405,7 @@
       ],
       "pricing": "free",
       "stars": 4,
-      "downloads": 52,
+      "downloads": 53,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.1",
@@ -1416,7 +1416,7 @@
             "name": "TalmudFormulas-Setup-1.0.1.exe",
             "url": "https://github.com/abaye123/TalmudFormulas/releases/download/v1.0.1/TalmudFormulas-Setup-1.0.1.exe",
             "size": 180856984,
-            "downloads": 5
+            "downloads": 6
           }
         ]
       }

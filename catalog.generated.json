@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T18:40:37.972Z",
+  "generatedAt": "2026-08-15T06:21:23.631Z",
   "software": [
     {
       "id": "cosmos",
@@ -1167,7 +1167,7 @@
       ],
       "pricing": "free",
       "stars": 2,
-      "downloads": 96,
+      "downloads": 97,
       "hasRelease": true,
       "release": {
         "tag": "v2.1.0",
@@ -1178,7 +1178,7 @@
             "name": "Voltrix_setop_2.1.0_signed.exe",
             "url": "https://github.com/abaye123/Voltrix/releases/download/v2.1.0/Voltrix_setop_2.1.0_signed.exe",
             "size": 70424864,
-            "downloads": 57
+            "downloads": 58
           }
         ]
       }

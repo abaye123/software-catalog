@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T06:23:11.385Z",
+  "generatedAt": "2026-08-16T18:14:58.247Z",
   "software": [
     {
       "id": "cosmos",
@@ -1075,7 +1075,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/TapLingo/",
       "stars": 2,
-      "downloads": 67,
+      "downloads": 68,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
@@ -1086,7 +1086,7 @@
             "name": "TapLingo-Setup-1.0.0.exe",
             "url": "https://github.com/abaye123/TapLingo/releases/download/v1.0.0/TapLingo-Setup-1.0.0.exe",
             "size": 8222024,
-            "downloads": 67
+            "downloads": 68
           }
         ]
       }
@@ -1316,7 +1316,7 @@
       ],
       "pricing": "free",
       "stars": 5,
-      "downloads": 229,
+      "downloads": 230,
       "hasRelease": true,
       "release": {
         "tag": "1.4.0",
@@ -1333,7 +1333,7 @@
             "name": "ZerachExplorer_setop_1.4.0_signed.exe",
             "url": "https://github.com/abaye123/ZerachExplorer/releases/download/1.4.0/ZerachExplorer_setop_1.4.0_signed.exe",
             "size": 3139680,
-            "downloads": 143
+            "downloads": 144
           }
         ]
       }

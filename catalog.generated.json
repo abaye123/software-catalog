@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T18:14:58.247Z",
+  "generatedAt": "2026-08-16T21:25:19.089Z",
   "software": [
     {
       "id": "cosmos",
@@ -976,6 +976,70 @@
             "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/download/v1.8.2/ItimHebrewCalendar-Setup-1.8.2.exe",
             "size": 78255186,
             "downloads": 89
+          }
+        ]
+      }
+    },
+    {
+      "id": "musicradio",
+      "repo": "MusicRadio",
+      "name": {
+        "he": "MusicRadio",
+        "en": "MusicRadio"
+      },
+      "description": {
+        "he": "רדיו יהודי, כל הזרמות המוזיקה החרדית בכל פלטפורמה",
+        "en": "Jewish radio, streaming straight to your desk and your pocket"
+      },
+      "tech": [
+        "Kotlin",
+        "Nucleus"
+      ],
+      "pricing": "free",
+      "page": "https://abaye123.github.io/MusicRadio/",
+      "stars": 0,
+      "downloads": 7,
+      "hasRelease": true,
+      "release": {
+        "tag": "v1.0.0",
+        "url": "https://github.com/abaye123/MusicRadio/releases/tag/v1.0.0",
+        "publishedAt": "2026-08-16T20:49:51Z",
+        "assets": [
+          {
+            "name": "music-radio-1.0.0-linux-amd64.deb",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.0/music-radio-1.0.0-linux-amd64.deb",
+            "size": 107131096,
+            "downloads": 0
+          },
+          {
+            "name": "music-radio-1.0.0-linux-arm64.deb",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.0/music-radio-1.0.0-linux-arm64.deb",
+            "size": 105236668,
+            "downloads": 0
+          },
+          {
+            "name": "music-radio-1.0.0-mac-arm64.dmg",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.0/music-radio-1.0.0-mac-arm64.dmg",
+            "size": 103846660,
+            "downloads": 0
+          },
+          {
+            "name": "music-radio-1.0.0-mac-x64.dmg",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.0/music-radio-1.0.0-mac-x64.dmg",
+            "size": 106091267,
+            "downloads": 0
+          },
+          {
+            "name": "music-radio-1.0.0-win-x64-nsis.exe",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.0/music-radio-1.0.0-win-x64-nsis.exe",
+            "size": 108973537,
+            "downloads": 7
+          },
+          {
+            "name": "MusicRadio-1.0.0.apk",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.0/MusicRadio-1.0.0.apk",
+            "size": 23699950,
+            "downloads": 0
           }
         ]
       }

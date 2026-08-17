@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T12:23:27.617Z",
+  "generatedAt": "2026-08-17T18:24:25.500Z",
   "software": [
     {
       "id": "cosmos",
@@ -964,7 +964,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 11,
-      "downloads": 890,
+      "downloads": 891,
       "hasRelease": true,
       "release": {
         "tag": "v1.8.2",
@@ -975,7 +975,7 @@
             "name": "ItimHebrewCalendar-Setup-1.8.2.exe",
             "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/download/v1.8.2/ItimHebrewCalendar-Setup-1.8.2.exe",
             "size": 78255186,
-            "downloads": 90
+            "downloads": 91
           }
         ]
       }
@@ -998,59 +998,59 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 0,
-      "downloads": 28,
+      "downloads": 46,
       "hasRelease": true,
       "release": {
-        "tag": "v1.0.1",
-        "url": "https://github.com/abaye123/MusicRadio/releases/tag/v1.0.1",
-        "publishedAt": "2026-08-17T09:02:42Z",
+        "tag": "v1.0.2",
+        "url": "https://github.com/abaye123/MusicRadio/releases/tag/v1.0.2",
+        "publishedAt": "2026-08-17T16:45:53Z",
         "assets": [
           {
-            "name": "musicradio-1.0.1-linux-amd64.deb",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.1/musicradio-1.0.1-linux-amd64.deb",
-            "size": 48556080,
-            "downloads": 0
-          },
-          {
-            "name": "musicradio-1.0.1-linux-arm64.deb",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.1/musicradio-1.0.1-linux-arm64.deb",
-            "size": 45691296,
-            "downloads": 0
-          },
-          {
-            "name": "musicradio-1.0.1-mac-arm64.dmg",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.1/musicradio-1.0.1-mac-arm64.dmg",
-            "size": 48472309,
-            "downloads": 0
-          },
-          {
-            "name": "musicradio-1.0.1-mac-arm64.zip",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.1/musicradio-1.0.1-mac-arm64.zip",
-            "size": 61921299,
+            "name": "musicradio-1.0.2-linux-amd64.deb",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.2/musicradio-1.0.2-linux-amd64.deb",
+            "size": 48565876,
             "downloads": 1
           },
           {
-            "name": "musicradio-1.0.1-mac-x64.dmg",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.1/musicradio-1.0.1-mac-x64.dmg",
-            "size": 57321016,
+            "name": "musicradio-1.0.2-linux-arm64.deb",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.2/musicradio-1.0.2-linux-arm64.deb",
+            "size": 45685484,
             "downloads": 0
           },
           {
-            "name": "musicradio-1.0.1-mac-x64.zip",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.1/musicradio-1.0.1-mac-x64.zip",
-            "size": 70651166,
+            "name": "musicradio-1.0.2-mac-arm64.dmg",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.2/musicradio-1.0.2-mac-arm64.dmg",
+            "size": 48477637,
             "downloads": 0
           },
           {
-            "name": "musicradio-1.0.1-win-x64-nsis.exe",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.1/musicradio-1.0.1-win-x64-nsis.exe",
-            "size": 49566074,
+            "name": "musicradio-1.0.2-mac-arm64.zip",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.2/musicradio-1.0.2-mac-arm64.zip",
+            "size": 61924269,
+            "downloads": 0
+          },
+          {
+            "name": "musicradio-1.0.2-mac-x64.dmg",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.2/musicradio-1.0.2-mac-x64.dmg",
+            "size": 57393552,
+            "downloads": 0
+          },
+          {
+            "name": "musicradio-1.0.2-mac-x64.zip",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.2/musicradio-1.0.2-mac-x64.zip",
+            "size": 70692030,
+            "downloads": 0
+          },
+          {
+            "name": "musicradio-1.0.2-win-x64-nsis.exe",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.2/musicradio-1.0.2-win-x64-nsis.exe",
+            "size": 49554443,
             "downloads": 2
           },
           {
-            "name": "MusicRadio-1.0.1.apk",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.1/MusicRadio-1.0.1.apk",
-            "size": 23699950,
+            "name": "MusicRadio-1.0.2.apk",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.2/MusicRadio-1.0.2.apk",
+            "size": 23734982,
             "downloads": 0
           }
         ]
@@ -1151,7 +1151,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/TapLingo/",
       "stars": 2,
-      "downloads": 70,
+      "downloads": 71,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
@@ -1162,7 +1162,7 @@
             "name": "TapLingo-Setup-1.0.0.exe",
             "url": "https://github.com/abaye123/TapLingo/releases/download/v1.0.0/TapLingo-Setup-1.0.0.exe",
             "size": 8222024,
-            "downloads": 70
+            "downloads": 71
           }
         ]
       }
@@ -1243,7 +1243,7 @@
       ],
       "pricing": "free",
       "stars": 2,
-      "downloads": 99,
+      "downloads": 100,
       "hasRelease": true,
       "release": {
         "tag": "v2.1.0",
@@ -1254,7 +1254,7 @@
             "name": "Voltrix_setop_2.1.0_signed.exe",
             "url": "https://github.com/abaye123/Voltrix/releases/download/v2.1.0/Voltrix_setop_2.1.0_signed.exe",
             "size": 70424864,
-            "downloads": 60
+            "downloads": 61
           }
         ]
       }

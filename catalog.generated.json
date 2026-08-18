@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T18:24:25.500Z",
+  "generatedAt": "2026-08-18T00:40:24.556Z",
   "software": [
     {
       "id": "cosmos",
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 0,
-      "downloads": 46,
+      "downloads": 53,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.2",
@@ -1045,7 +1045,7 @@
             "name": "musicradio-1.0.2-win-x64-nsis.exe",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.2/musicradio-1.0.2-win-x64-nsis.exe",
             "size": 49554443,
-            "downloads": 2
+            "downloads": 5
           },
           {
             "name": "MusicRadio-1.0.2.apk",

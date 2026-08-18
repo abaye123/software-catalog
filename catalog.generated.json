@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T12:24:50.908Z",
+  "generatedAt": "2026-08-18T18:22:36.584Z",
   "software": [
     {
       "id": "cosmos",
@@ -964,7 +964,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 11,
-      "downloads": 892,
+      "downloads": 893,
       "hasRelease": true,
       "release": {
         "tag": "v1.8.2",
@@ -975,7 +975,7 @@
             "name": "ItimHebrewCalendar-Setup-1.8.2.exe",
             "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/download/v1.8.2/ItimHebrewCalendar-Setup-1.8.2.exe",
             "size": 78255186,
-            "downloads": 92
+            "downloads": 93
           }
         ]
       }
@@ -998,59 +998,59 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 0,
-      "downloads": 68,
+      "downloads": 84,
       "hasRelease": true,
       "release": {
-        "tag": "v1.0.3",
-        "url": "https://github.com/abaye123/MusicRadio/releases/tag/v1.0.3",
-        "publishedAt": "2026-08-18T10:08:06Z",
+        "tag": "v1.0.4",
+        "url": "https://github.com/abaye123/MusicRadio/releases/tag/v1.0.4",
+        "publishedAt": "2026-08-18T13:44:19Z",
         "assets": [
           {
-            "name": "musicradio-1.0.3-linux-amd64.deb",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.3/musicradio-1.0.3-linux-amd64.deb",
-            "size": 48581760,
+            "name": "musicradio-1.0.4-linux-amd64.deb",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.4/musicradio-1.0.4-linux-amd64.deb",
+            "size": 47381200,
+            "downloads": 1
+          },
+          {
+            "name": "musicradio-1.0.4-linux-arm64.deb",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.4/musicradio-1.0.4-linux-arm64.deb",
+            "size": 44532140,
             "downloads": 0
           },
           {
-            "name": "musicradio-1.0.3-linux-arm64.deb",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.3/musicradio-1.0.3-linux-arm64.deb",
-            "size": 45702392,
+            "name": "musicradio-1.0.4-mac-arm64.dmg",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.4/musicradio-1.0.4-mac-arm64.dmg",
+            "size": 47322823,
             "downloads": 0
           },
           {
-            "name": "musicradio-1.0.3-mac-arm64.dmg",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.3/musicradio-1.0.3-mac-arm64.dmg",
-            "size": 48459613,
+            "name": "musicradio-1.0.4-mac-arm64.zip",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.4/musicradio-1.0.4-mac-arm64.zip",
+            "size": 60758666,
             "downloads": 0
           },
           {
-            "name": "musicradio-1.0.3-mac-arm64.zip",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.3/musicradio-1.0.3-mac-arm64.zip",
-            "size": 61934724,
+            "name": "musicradio-1.0.4-mac-x64.dmg",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.4/musicradio-1.0.4-mac-x64.dmg",
+            "size": 56189107,
             "downloads": 0
           },
           {
-            "name": "musicradio-1.0.3-mac-x64.dmg",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.3/musicradio-1.0.3-mac-x64.dmg",
-            "size": 57375252,
+            "name": "musicradio-1.0.4-mac-x64.zip",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.4/musicradio-1.0.4-mac-x64.zip",
+            "size": 69558871,
             "downloads": 0
           },
           {
-            "name": "musicradio-1.0.3-mac-x64.zip",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.3/musicradio-1.0.3-mac-x64.zip",
-            "size": 70729848,
-            "downloads": 0
+            "name": "musicradio-1.0.4-win-x64-nsis.exe",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.4/musicradio-1.0.4-win-x64-nsis.exe",
+            "size": 48395560,
+            "downloads": 3
           },
           {
-            "name": "musicradio-1.0.3-win-x64-nsis.exe",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.3/musicradio-1.0.3-win-x64-nsis.exe",
-            "size": 49575009,
-            "downloads": 7
-          },
-          {
-            "name": "MusicRadio-1.0.3.apk",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.3/MusicRadio-1.0.3.apk",
-            "size": 23736854,
+            "name": "MusicRadio-1.0.4.apk",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.4/MusicRadio-1.0.4.apk",
+            "size": 6592710,
             "downloads": 2
           }
         ]
@@ -1281,19 +1281,19 @@
       "downloads": 10,
       "hasRelease": true,
       "release": {
-        "tag": "v0.4.0",
-        "url": "https://github.com/abaye123/shchametai/releases/tag/v0.4.0",
-        "publishedAt": "2026-08-09T15:55:11Z",
+        "tag": "v0.5.0",
+        "url": "https://github.com/abaye123/shchametai/releases/tag/v0.5.0",
+        "publishedAt": "2026-08-18T13:15:59Z",
         "assets": [
           {
-            "name": "shchametai_0.4.0_x64-setup.exe",
-            "url": "https://github.com/abaye123/shchametai/releases/download/v0.4.0/shchametai_0.4.0_x64-setup.exe",
-            "size": 4028417,
-            "downloads": 4
+            "name": "shchametai_0.5.0_x64-setup.exe",
+            "url": "https://github.com/abaye123/shchametai/releases/download/v0.5.0/shchametai_0.5.0_x64-setup.exe",
+            "size": 4031000,
+            "downloads": 0
           },
           {
-            "name": "shchametai_0.4.0_x64_en-US.msi",
-            "url": "https://github.com/abaye123/shchametai/releases/download/v0.4.0/shchametai_0.4.0_x64_en-US.msi",
+            "name": "shchametai_0.5.0_x64_en-US.msi",
+            "url": "https://github.com/abaye123/shchametai/releases/download/v0.5.0/shchametai_0.5.0_x64_en-US.msi",
             "size": 4321280,
             "downloads": 0
           }

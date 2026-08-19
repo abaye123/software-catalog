@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T00:41:00.686Z",
+  "generatedAt": "2026-08-19T06:26:54.760Z",
   "software": [
     {
       "id": "cosmos",
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 0,
-      "downloads": 94,
+      "downloads": 97,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.5",
@@ -1045,13 +1045,13 @@
             "name": "musicradio-1.0.5-win-x64-nsis.exe",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.5/musicradio-1.0.5-win-x64-nsis.exe",
             "size": 48416206,
-            "downloads": 2
+            "downloads": 3
           },
           {
             "name": "MusicRadio-1.0.5.apk",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.5/MusicRadio-1.0.5.apk",
             "size": 6593202,
-            "downloads": 4
+            "downloads": 6
           }
         ]
       }
@@ -1392,7 +1392,7 @@
       ],
       "pricing": "free",
       "stars": 5,
-      "downloads": 230,
+      "downloads": 231,
       "hasRelease": true,
       "release": {
         "tag": "1.4.0",
@@ -1409,7 +1409,7 @@
             "name": "ZerachExplorer_setop_1.4.0_signed.exe",
             "url": "https://github.com/abaye123/ZerachExplorer/releases/download/1.4.0/ZerachExplorer_setop_1.4.0_signed.exe",
             "size": 3139680,
-            "downloads": 144
+            "downloads": 145
           }
         ]
       }

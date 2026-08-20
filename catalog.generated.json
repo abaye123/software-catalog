@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T00:40:40.109Z",
+  "generatedAt": "2026-08-20T18:23:53.535Z",
   "software": [
     {
       "id": "cosmos",
@@ -998,60 +998,54 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 0,
-      "downloads": 108,
+      "downloads": 122,
       "hasRelease": true,
       "release": {
-        "tag": "v1.0.5",
-        "url": "https://github.com/abaye123/MusicRadio/releases/tag/v1.0.5",
-        "publishedAt": "2026-08-18T18:23:03Z",
+        "tag": "v1.0.6",
+        "url": "https://github.com/abaye123/MusicRadio/releases/tag/v1.0.6",
+        "publishedAt": "2026-08-20T14:12:41Z",
         "assets": [
           {
-            "name": "musicradio-1.0.5-linux-amd64.deb",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.5/musicradio-1.0.5-linux-amd64.deb",
-            "size": 47406052,
+            "name": "musicradio-1.0.6-linux-amd64.deb",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.6/musicradio-1.0.6-linux-amd64.deb",
+            "size": 47489116,
             "downloads": 0
           },
           {
-            "name": "musicradio-1.0.5-linux-arm64.deb",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.5/musicradio-1.0.5-linux-arm64.deb",
-            "size": 44564052,
+            "name": "musicradio-1.0.6-mac-arm64.dmg",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.6/musicradio-1.0.6-mac-arm64.dmg",
+            "size": 50797501,
             "downloads": 0
           },
           {
-            "name": "musicradio-1.0.5-mac-arm64.dmg",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.5/musicradio-1.0.5-mac-arm64.dmg",
-            "size": 50965416,
+            "name": "musicradio-1.0.6-mac-arm64.zip",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.6/musicradio-1.0.6-mac-arm64.zip",
+            "size": 62908672,
+            "downloads": 1
+          },
+          {
+            "name": "musicradio-1.0.6-mac-x64.dmg",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.6/musicradio-1.0.6-mac-x64.dmg",
+            "size": 59889593,
             "downloads": 0
           },
           {
-            "name": "musicradio-1.0.5-mac-arm64.zip",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.5/musicradio-1.0.5-mac-arm64.zip",
-            "size": 62754096,
-            "downloads": 2
-          },
-          {
-            "name": "musicradio-1.0.5-mac-x64.dmg",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.5/musicradio-1.0.5-mac-x64.dmg",
-            "size": 59832420,
+            "name": "musicradio-1.0.6-mac-x64.zip",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.6/musicradio-1.0.6-mac-x64.zip",
+            "size": 71753504,
             "downloads": 0
           },
           {
-            "name": "musicradio-1.0.5-mac-x64.zip",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.5/musicradio-1.0.5-mac-x64.zip",
-            "size": 71489015,
-            "downloads": 0
+            "name": "musicradio-1.0.6-win-x64-nsis.exe",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.6/musicradio-1.0.6-win-x64-nsis.exe",
+            "size": 48549673,
+            "downloads": 10
           },
           {
-            "name": "musicradio-1.0.5-win-x64-nsis.exe",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.5/musicradio-1.0.5-win-x64-nsis.exe",
-            "size": 48416206,
-            "downloads": 11
-          },
-          {
-            "name": "MusicRadio-1.0.5.apk",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.5/MusicRadio-1.0.5.apk",
-            "size": 6593202,
-            "downloads": 8
+            "name": "MusicRadio-1.0.6.apk",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.6/MusicRadio-1.0.6.apk",
+            "size": 6739951,
+            "downloads": 1
           }
         ]
       }
@@ -1116,7 +1110,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/Kolsites/",
       "stars": 4,
-      "downloads": 30,
+      "downloads": 32,
       "hasRelease": true,
       "release": {
         "tag": "v1.7.1",
@@ -1127,7 +1121,7 @@
             "name": "Kolsites-Setup-1.7.1.exe",
             "url": "https://github.com/abaye123/Kolsites/releases/download/v1.7.1/Kolsites-Setup-1.7.1.exe",
             "size": 9728213,
-            "downloads": 6
+            "downloads": 8
           }
         ]
       }
@@ -1278,7 +1272,7 @@
       ],
       "pricing": "free",
       "stars": 2,
-      "downloads": 10,
+      "downloads": 12,
       "hasRelease": true,
       "release": {
         "tag": "v0.5.0",
@@ -1289,7 +1283,7 @@
             "name": "shchametai_0.5.0_x64-setup.exe",
             "url": "https://github.com/abaye123/shchametai/releases/download/v0.5.0/shchametai_0.5.0_x64-setup.exe",
             "size": 4031000,
-            "downloads": 0
+            "downloads": 2
           },
           {
             "name": "shchametai_0.5.0_x64_en-US.msi",
@@ -1392,7 +1386,7 @@
       ],
       "pricing": "free",
       "stars": 5,
-      "downloads": 231,
+      "downloads": 233,
       "hasRelease": true,
       "release": {
         "tag": "1.4.0",
@@ -1403,7 +1397,7 @@
             "name": "ZerachExplorer_setop_1.4.0.exe",
             "url": "https://github.com/abaye123/ZerachExplorer/releases/download/1.4.0/ZerachExplorer_setop_1.4.0.exe",
             "size": 3132086,
-            "downloads": 10
+            "downloads": 12
           },
           {
             "name": "ZerachExplorer_setop_1.4.0_signed.exe",
@@ -1433,7 +1427,7 @@
       ],
       "pricing": "free",
       "stars": 0,
-      "downloads": 132,
+      "downloads": 134,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
@@ -1444,7 +1438,7 @@
             "name": "FAT32Formatter_v1.0.0.exe",
             "url": "https://github.com/abaye123/FAT32Formatter/releases/download/v1.0.0/FAT32Formatter_v1.0.0.exe",
             "size": 22423528,
-            "downloads": 102
+            "downloads": 104
           },
           {
             "name": "FAT32Formatter_v1.0.0_password_123.rar",

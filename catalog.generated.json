@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T00:40:58.376Z",
+  "generatedAt": "2026-08-23T00:43:36.637Z",
   "software": [
     {
       "id": "cosmos",
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 1,
-      "downloads": 159,
+      "downloads": 161,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.6",
@@ -1045,7 +1045,7 @@
             "name": "MusicRadio-1.0.6.apk",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.6/MusicRadio-1.0.6.apk",
             "size": 6739951,
-            "downloads": 9
+            "downloads": 10
           }
         ]
       }
@@ -1110,7 +1110,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/Kolsites/",
       "stars": 4,
-      "downloads": 33,
+      "downloads": 34,
       "hasRelease": true,
       "release": {
         "tag": "v1.7.1",
@@ -1121,7 +1121,7 @@
             "name": "Kolsites-Setup-1.7.1.exe",
             "url": "https://github.com/abaye123/Kolsites/releases/download/v1.7.1/Kolsites-Setup-1.7.1.exe",
             "size": 9728213,
-            "downloads": 9
+            "downloads": 10
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T06:29:21.409Z",
+  "generatedAt": "2026-08-25T12:28:32.459Z",
   "software": [
     {
       "id": "cosmos",
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 1,
-      "downloads": 216,
+      "downloads": 223,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.9",
@@ -1021,7 +1021,7 @@
             "name": "latest.yml",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.9/latest.yml",
             "size": 387,
-            "downloads": 20
+            "downloads": 27
           },
           {
             "name": "musicradio-1.0.9-linux-amd64.deb",
@@ -1152,7 +1152,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/Kolsites/",
       "stars": 4,
-      "downloads": 34,
+      "downloads": 35,
       "hasRelease": true,
       "release": {
         "tag": "v1.7.1",
@@ -1163,7 +1163,7 @@
             "name": "Kolsites-Setup-1.7.1.exe",
             "url": "https://github.com/abaye123/Kolsites/releases/download/v1.7.1/Kolsites-Setup-1.7.1.exe",
             "size": 9728213,
-            "downloads": 10
+            "downloads": 11
           }
         ]
       }

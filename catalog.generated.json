@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T18:24:58.022Z",
+  "generatedAt": "2026-08-26T00:42:35.157Z",
   "software": [
     {
       "id": "cosmos",
@@ -1152,7 +1152,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/Kolsites/",
       "stars": 4,
-      "downloads": 36,
+      "downloads": 37,
       "hasRelease": true,
       "release": {
         "tag": "v1.7.1",
@@ -1163,7 +1163,7 @@
             "name": "Kolsites-Setup-1.7.1.exe",
             "url": "https://github.com/abaye123/Kolsites/releases/download/v1.7.1/Kolsites-Setup-1.7.1.exe",
             "size": 9728213,
-            "downloads": 12
+            "downloads": 13
           }
         ]
       }
@@ -1428,7 +1428,7 @@
       ],
       "pricing": "free",
       "stars": 5,
-      "downloads": 234,
+      "downloads": 235,
       "hasRelease": true,
       "release": {
         "tag": "1.4.0",
@@ -1445,7 +1445,7 @@
             "name": "ZerachExplorer_setop_1.4.0_signed.exe",
             "url": "https://github.com/abaye123/ZerachExplorer/releases/download/1.4.0/ZerachExplorer_setop_1.4.0_signed.exe",
             "size": 3139680,
-            "downloads": 146
+            "downloads": 147
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T17:06:37.550Z",
+  "generatedAt": "2026-08-28T01:55:01.461Z",
   "software": [
     {
       "id": "cosmos",
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 1,
-      "downloads": 237,
+      "downloads": 242,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.9",
@@ -1021,7 +1021,7 @@
             "name": "latest.yml",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.9/latest.yml",
             "size": 387,
-            "downloads": 37
+            "downloads": 40
           },
           {
             "name": "musicradio-1.0.9-linux-amd64.deb",
@@ -1075,7 +1075,7 @@
             "name": "musicradio-1.0.9-win-x64-nsis.exe",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.9/musicradio-1.0.9-win-x64-nsis.exe",
             "size": 50057493,
-            "downloads": 16
+            "downloads": 18
           },
           {
             "name": "musicradio-1.0.9-win-x64-nsis.exe.blockmap",
@@ -1151,7 +1151,7 @@
       ],
       "pricing": "free",
       "page": "https://abaye123.github.io/Kolsites/",
-      "stars": 4,
+      "stars": 5,
       "downloads": 37,
       "hasRelease": true,
       "release": {
@@ -1428,7 +1428,7 @@
       ],
       "pricing": "free",
       "stars": 5,
-      "downloads": 236,
+      "downloads": 237,
       "hasRelease": true,
       "release": {
         "tag": "1.4.0",
@@ -1445,7 +1445,7 @@
             "name": "ZerachExplorer_setop_1.4.0_signed.exe",
             "url": "https://github.com/abaye123/ZerachExplorer/releases/download/1.4.0/ZerachExplorer_setop_1.4.0_signed.exe",
             "size": 3139680,
-            "downloads": 148
+            "downloads": 149
           }
         ]
       }

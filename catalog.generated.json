@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T17:54:04.683Z",
+  "generatedAt": "2026-08-29T11:58:49.804Z",
   "software": [
     {
       "id": "cosmos",
@@ -1428,7 +1428,7 @@
       ],
       "pricing": "free",
       "stars": 5,
-      "downloads": 237,
+      "downloads": 239,
       "hasRelease": true,
       "release": {
         "tag": "1.4.0",
@@ -1445,7 +1445,7 @@
             "name": "ZerachExplorer_setop_1.4.0_signed.exe",
             "url": "https://github.com/abaye123/ZerachExplorer/releases/download/1.4.0/ZerachExplorer_setop_1.4.0_signed.exe",
             "size": 3139680,
-            "downloads": 149
+            "downloads": 151
           }
         ]
       }

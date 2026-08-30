@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T11:58:49.804Z",
+  "generatedAt": "2026-08-30T10:55:27.732Z",
   "software": [
     {
       "id": "cosmos",
@@ -1314,7 +1314,7 @@
       ],
       "pricing": "free",
       "stars": 2,
-      "downloads": 12,
+      "downloads": 13,
       "hasRelease": true,
       "release": {
         "tag": "v0.5.0",
@@ -1325,7 +1325,7 @@
             "name": "shchametai_0.5.0_x64-setup.exe",
             "url": "https://github.com/abaye123/shchametai/releases/download/v0.5.0/shchametai_0.5.0_x64-setup.exe",
             "size": 4031000,
-            "downloads": 2
+            "downloads": 3
           },
           {
             "name": "shchametai_0.5.0_x64_en-US.msi",
@@ -1394,7 +1394,7 @@
       ],
       "pricing": "free",
       "stars": 0,
-      "downloads": 1,
+      "downloads": 3,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
@@ -1405,7 +1405,7 @@
             "name": "Snapfront_v1.0.0.zip",
             "url": "https://github.com/abaye123/Snapfront/releases/download/v1.0.0/Snapfront_v1.0.0.zip",
             "size": 88945,
-            "downloads": 1
+            "downloads": 3
           }
         ]
       }

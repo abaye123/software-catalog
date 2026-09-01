@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T10:47:41.148Z",
+  "generatedAt": "2026-09-01T15:46:42.616Z",
   "software": [
     {
       "id": "cosmos",
@@ -964,7 +964,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 11,
-      "downloads": 897,
+      "downloads": 899,
       "hasRelease": true,
       "release": {
         "tag": "v1.8.2",
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 1,
-      "downloads": 261,
+      "downloads": 274,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.9",
@@ -1021,7 +1021,7 @@
             "name": "latest.yml",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.9/latest.yml",
             "size": 387,
-            "downloads": 49
+            "downloads": 56
           },
           {
             "name": "musicradio-1.0.9-linux-amd64.deb",
@@ -1075,7 +1075,7 @@
             "name": "musicradio-1.0.9-win-x64-nsis.exe",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.9/musicradio-1.0.9-win-x64-nsis.exe",
             "size": 50057493,
-            "downloads": 22
+            "downloads": 25
           },
           {
             "name": "musicradio-1.0.9-win-x64-nsis.exe.blockmap",
@@ -1087,7 +1087,7 @@
             "name": "MusicRadio-1.0.9.apk",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.9/MusicRadio-1.0.9.apk",
             "size": 6953927,
-            "downloads": 12
+            "downloads": 15
           }
         ]
       }
@@ -1428,7 +1428,7 @@
       ],
       "pricing": "free",
       "stars": 5,
-      "downloads": 241,
+      "downloads": 243,
       "hasRelease": true,
       "release": {
         "tag": "1.4.0",
@@ -1445,7 +1445,7 @@
             "name": "ZerachExplorer_setop_1.4.0_signed.exe",
             "url": "https://github.com/abaye123/ZerachExplorer/releases/download/1.4.0/ZerachExplorer_setop_1.4.0_signed.exe",
             "size": 3139680,
-            "downloads": 153
+            "downloads": 155
           }
         ]
       }

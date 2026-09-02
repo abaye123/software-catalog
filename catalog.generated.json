@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T15:38:41.159Z",
+  "generatedAt": "2026-09-02T20:17:58.137Z",
   "software": [
     {
       "id": "cosmos",
@@ -964,7 +964,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 11,
-      "downloads": 901,
+      "downloads": 903,
       "hasRelease": true,
       "release": {
         "tag": "v1.8.2",
@@ -975,7 +975,7 @@
             "name": "ItimHebrewCalendar-Setup-1.8.2.exe",
             "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/download/v1.8.2/ItimHebrewCalendar-Setup-1.8.2.exe",
             "size": 78255186,
-            "downloads": 99
+            "downloads": 101
           }
         ]
       }
@@ -998,96 +998,96 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 1,
-      "downloads": 286,
+      "downloads": 294,
       "hasRelease": true,
       "release": {
-        "tag": "v1.0.9",
-        "url": "https://github.com/abaye123/MusicRadio/releases/tag/v1.0.9",
-        "publishedAt": "2026-08-23T16:00:56Z",
+        "tag": "v1.0.10",
+        "url": "https://github.com/abaye123/MusicRadio/releases/tag/v1.0.10",
+        "publishedAt": "2026-09-02T17:40:32Z",
         "assets": [
           {
             "name": "latest-linux.yml",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.9/latest-linux.yml",
-            "size": 523,
-            "downloads": 3
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/latest-linux.yml",
+            "size": 527,
+            "downloads": 0
           },
           {
             "name": "latest-mac.yml",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.9/latest-mac.yml",
-            "size": 879,
-            "downloads": 3
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/latest-mac.yml",
+            "size": 885,
+            "downloads": 0
           },
           {
             "name": "latest.yml",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.9/latest.yml",
-            "size": 387,
-            "downloads": 64
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/latest.yml",
+            "size": 390,
+            "downloads": 2
           },
           {
-            "name": "musicradio-1.0.9-linux-amd64.deb",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.9/musicradio-1.0.9-linux-amd64.deb",
-            "size": 49155568,
+            "name": "musicradio-1.0.10-linux-amd64.deb",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/musicradio-1.0.10-linux-amd64.deb",
+            "size": 49136632,
+            "downloads": 0
+          },
+          {
+            "name": "musicradio-1.0.10-linux-arm64.deb",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/musicradio-1.0.10-linux-arm64.deb",
+            "size": 46214348,
+            "downloads": 0
+          },
+          {
+            "name": "musicradio-1.0.10-mac-arm64.dmg",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/musicradio-1.0.10-mac-arm64.dmg",
+            "size": 52788052,
+            "downloads": 0
+          },
+          {
+            "name": "musicradio-1.0.10-mac-arm64.zip",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/musicradio-1.0.10-mac-arm64.zip",
+            "size": 65231519,
+            "downloads": 0
+          },
+          {
+            "name": "musicradio-1.0.10-mac-arm64.zip.blockmap",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/musicradio-1.0.10-mac-arm64.zip.blockmap",
+            "size": 70023,
+            "downloads": 0
+          },
+          {
+            "name": "musicradio-1.0.10-mac-x64.dmg",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/musicradio-1.0.10-mac-x64.dmg",
+            "size": 61777776,
+            "downloads": 0
+          },
+          {
+            "name": "musicradio-1.0.10-mac-x64.zip",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/musicradio-1.0.10-mac-x64.zip",
+            "size": 74151979,
+            "downloads": 0
+          },
+          {
+            "name": "musicradio-1.0.10-mac-x64.zip.blockmap",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/musicradio-1.0.10-mac-x64.zip.blockmap",
+            "size": 77081,
+            "downloads": 0
+          },
+          {
+            "name": "musicradio-1.0.10-win-x64-nsis.exe",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/musicradio-1.0.10-win-x64-nsis.exe",
+            "size": 50055245,
             "downloads": 1
           },
           {
-            "name": "musicradio-1.0.9-linux-arm64.deb",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.9/musicradio-1.0.9-linux-arm64.deb",
-            "size": 46233576,
-            "downloads": 0
-          },
-          {
-            "name": "musicradio-1.0.9-mac-arm64.dmg",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.9/musicradio-1.0.9-mac-arm64.dmg",
-            "size": 52823332,
-            "downloads": 0
-          },
-          {
-            "name": "musicradio-1.0.9-mac-arm64.zip",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.9/musicradio-1.0.9-mac-arm64.zip",
-            "size": 65231958,
+            "name": "musicradio-1.0.10-win-x64-nsis.exe.blockmap",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/musicradio-1.0.10-win-x64-nsis.exe.blockmap",
+            "size": 53035,
             "downloads": 1
           },
           {
-            "name": "musicradio-1.0.9-mac-arm64.zip.blockmap",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.9/musicradio-1.0.9-mac-arm64.zip.blockmap",
-            "size": 69635,
-            "downloads": 0
-          },
-          {
-            "name": "musicradio-1.0.9-mac-x64.dmg",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.9/musicradio-1.0.9-mac-x64.dmg",
-            "size": 61808392,
-            "downloads": 0
-          },
-          {
-            "name": "musicradio-1.0.9-mac-x64.zip",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.9/musicradio-1.0.9-mac-x64.zip",
-            "size": 74213718,
-            "downloads": 0
-          },
-          {
-            "name": "musicradio-1.0.9-mac-x64.zip.blockmap",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.9/musicradio-1.0.9-mac-x64.zip.blockmap",
-            "size": 78431,
-            "downloads": 0
-          },
-          {
-            "name": "musicradio-1.0.9-win-x64-nsis.exe",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.9/musicradio-1.0.9-win-x64-nsis.exe",
-            "size": 50057493,
-            "downloads": 29
-          },
-          {
-            "name": "musicradio-1.0.9-win-x64-nsis.exe.blockmap",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.9/musicradio-1.0.9-win-x64-nsis.exe.blockmap",
-            "size": 52783,
-            "downloads": 0
-          },
-          {
-            "name": "MusicRadio-1.0.9.apk",
-            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.9/MusicRadio-1.0.9.apk",
+            "name": "MusicRadio-1.0.10.apk",
+            "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/MusicRadio-1.0.10.apk",
             "size": 6953927,
-            "downloads": 15
+            "downloads": 3
           }
         ]
       }

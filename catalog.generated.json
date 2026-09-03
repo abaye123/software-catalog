@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T15:29:36.970Z",
+  "generatedAt": "2026-09-03T20:17:49.318Z",
   "software": [
     {
       "id": "cosmos",
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 1,
-      "downloads": 296,
+      "downloads": 297,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.10",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T15:27:23.264Z",
+  "generatedAt": "2026-09-05T19:43:22.449Z",
   "software": [
     {
       "id": "cosmos",
@@ -964,7 +964,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 11,
-      "downloads": 904,
+      "downloads": 905,
       "hasRelease": true,
       "release": {
         "tag": "v1.8.2",
@@ -975,7 +975,7 @@
             "name": "ItimHebrewCalendar-Setup-1.8.2.exe",
             "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/download/v1.8.2/ItimHebrewCalendar-Setup-1.8.2.exe",
             "size": 78255186,
-            "downloads": 102
+            "downloads": 103
           }
         ]
       }
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 1,
-      "downloads": 316,
+      "downloads": 319,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.10",
@@ -1015,7 +1015,7 @@
             "name": "latest-mac.yml",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/latest-mac.yml",
             "size": 885,
-            "downloads": 0
+            "downloads": 1
           },
           {
             "name": "latest.yml",
@@ -1045,13 +1045,13 @@
             "name": "musicradio-1.0.10-mac-arm64.zip",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/musicradio-1.0.10-mac-arm64.zip",
             "size": 65231519,
-            "downloads": 0
+            "downloads": 1
           },
           {
             "name": "musicradio-1.0.10-mac-arm64.zip.blockmap",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/musicradio-1.0.10-mac-arm64.zip.blockmap",
             "size": 70023,
-            "downloads": 0
+            "downloads": 1
           },
           {
             "name": "musicradio-1.0.10-mac-x64.dmg",
@@ -1152,7 +1152,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/Kolsites/",
       "stars": 5,
-      "downloads": 37,
+      "downloads": 38,
       "hasRelease": true,
       "release": {
         "tag": "v1.7.1",
@@ -1163,7 +1163,7 @@
             "name": "Kolsites-Setup-1.7.1.exe",
             "url": "https://github.com/abaye123/Kolsites/releases/download/v1.7.1/Kolsites-Setup-1.7.1.exe",
             "size": 9728213,
-            "downloads": 13
+            "downloads": 14
           }
         ]
       }

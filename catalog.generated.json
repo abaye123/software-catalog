@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T01:56:48.304Z",
+  "generatedAt": "2026-09-07T11:03:48.119Z",
   "software": [
     {
       "id": "cosmos",
@@ -964,7 +964,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 12,
-      "downloads": 911,
+      "downloads": 913,
       "hasRelease": true,
       "release": {
         "tag": "v1.8.2",
@@ -975,7 +975,7 @@
             "name": "ItimHebrewCalendar-Setup-1.8.2.exe",
             "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/download/v1.8.2/ItimHebrewCalendar-Setup-1.8.2.exe",
             "size": 78255186,
-            "downloads": 109
+            "downloads": 111
           }
         ]
       }
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 1,
-      "downloads": 335,
+      "downloads": 340,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.10",
@@ -1021,7 +1021,7 @@
             "name": "latest.yml",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/latest.yml",
             "size": 390,
-            "downloads": 13
+            "downloads": 15
           },
           {
             "name": "musicradio-1.0.10-linux-amd64.deb",
@@ -1075,7 +1075,7 @@
             "name": "musicradio-1.0.10-win-x64-nsis.exe",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/musicradio-1.0.10-win-x64-nsis.exe",
             "size": 50055245,
-            "downloads": 11
+            "downloads": 14
           },
           {
             "name": "musicradio-1.0.10-win-x64-nsis.exe.blockmap",
@@ -1187,7 +1187,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/TapLingo/",
       "stars": 2,
-      "downloads": 72,
+      "downloads": 73,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
@@ -1198,7 +1198,7 @@
             "name": "TapLingo-Setup-1.0.0.exe",
             "url": "https://github.com/abaye123/TapLingo/releases/download/v1.0.0/TapLingo-Setup-1.0.0.exe",
             "size": 8222024,
-            "downloads": 72
+            "downloads": 73
           }
         ]
       }
@@ -1469,7 +1469,7 @@
       ],
       "pricing": "free",
       "stars": 0,
-      "downloads": 139,
+      "downloads": 140,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
@@ -1480,7 +1480,7 @@
             "name": "FAT32Formatter_v1.0.0.exe",
             "url": "https://github.com/abaye123/FAT32Formatter/releases/download/v1.0.0/FAT32Formatter_v1.0.0.exe",
             "size": 22423528,
-            "downloads": 108
+            "downloads": 109
           },
           {
             "name": "FAT32Formatter_v1.0.0_password_123.rar",
@@ -1552,7 +1552,7 @@
       ],
       "pricing": "free",
       "stars": 1,
-      "downloads": 5,
+      "downloads": 6,
       "hasRelease": true,
       "release": {
         "tag": "v1.2.0",
@@ -1563,7 +1563,7 @@
             "name": "audio_analyzer_v1.2.0.exe",
             "url": "https://github.com/abaye123/AudioAnalyzer/releases/download/v1.2.0/audio_analyzer_v1.2.0.exe",
             "size": 170800168,
-            "downloads": 4
+            "downloads": 5
           }
         ]
       }

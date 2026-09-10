@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T10:16:13.434Z",
+  "generatedAt": "2026-09-10T15:30:32.732Z",
   "software": [
     {
       "id": "cosmos",
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 1,
-      "downloads": 356,
+      "downloads": 357,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.10",
@@ -1021,7 +1021,7 @@
             "name": "latest.yml",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/latest.yml",
             "size": 390,
-            "downloads": 25
+            "downloads": 26
           },
           {
             "name": "musicradio-1.0.10-linux-amd64.deb",
@@ -1186,7 +1186,7 @@
       ],
       "pricing": "free",
       "page": "https://abaye123.github.io/TapLingo/",
-      "stars": 2,
+      "stars": 1,
       "downloads": 74,
       "hasRelease": true,
       "release": {
@@ -1278,7 +1278,7 @@
         "cryptography"
       ],
       "pricing": "free",
-      "stars": 2,
+      "stars": 1,
       "downloads": 100,
       "hasRelease": true,
       "release": {
@@ -1313,7 +1313,7 @@
         "Gemini"
       ],
       "pricing": "free",
-      "stars": 2,
+      "stars": 1,
       "downloads": 13,
       "hasRelease": true,
       "release": {
@@ -1353,7 +1353,7 @@
         "PySide6"
       ],
       "pricing": "free",
-      "stars": 1,
+      "stars": 0,
       "downloads": 11,
       "hasRelease": true,
       "release": {
@@ -1427,7 +1427,7 @@
         "Windows Forms"
       ],
       "pricing": "free",
-      "stars": 5,
+      "stars": 4,
       "downloads": 250,
       "hasRelease": true,
       "release": {
@@ -1551,7 +1551,7 @@
         "librosa"
       ],
       "pricing": "free",
-      "stars": 1,
+      "stars": 0,
       "downloads": 6,
       "hasRelease": true,
       "release": {

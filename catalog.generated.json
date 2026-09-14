@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T14:38:52.204Z",
+  "generatedAt": "2026-09-14T02:27:04.339Z",
   "software": [
     {
       "id": "cosmos",
@@ -1314,7 +1314,7 @@
       ],
       "pricing": "free",
       "stars": 2,
-      "downloads": 13,
+      "downloads": 14,
       "hasRelease": true,
       "release": {
         "tag": "v0.5.0",
@@ -1325,7 +1325,7 @@
             "name": "shchametai_0.5.0_x64-setup.exe",
             "url": "https://github.com/abaye123/shchametai/releases/download/v0.5.0/shchametai_0.5.0_x64-setup.exe",
             "size": 4031000,
-            "downloads": 3
+            "downloads": 4
           },
           {
             "name": "shchametai_0.5.0_x64_en-US.msi",

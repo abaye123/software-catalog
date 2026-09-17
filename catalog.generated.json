@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T02:29:47.847Z",
+  "generatedAt": "2026-09-17T10:40:12.776Z",
   "software": [
     {
       "id": "cosmos",
@@ -964,7 +964,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 12,
-      "downloads": 926,
+      "downloads": 931,
       "hasRelease": true,
       "release": {
         "tag": "v1.8.2",
@@ -975,7 +975,7 @@
             "name": "ItimHebrewCalendar-Setup-1.8.2.exe",
             "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/download/v1.8.2/ItimHebrewCalendar-Setup-1.8.2.exe",
             "size": 78255186,
-            "downloads": 124
+            "downloads": 129
           }
         ]
       }
@@ -1394,7 +1394,7 @@
       ],
       "pricing": "free",
       "stars": 0,
-      "downloads": 3,
+      "downloads": 4,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
@@ -1405,7 +1405,7 @@
             "name": "Snapfront_v1.0.0.zip",
             "url": "https://github.com/abaye123/Snapfront/releases/download/v1.0.0/Snapfront_v1.0.0.zip",
             "size": 88945,
-            "downloads": 3
+            "downloads": 4
           }
         ]
       }

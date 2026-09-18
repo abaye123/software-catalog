@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T20:45:40.509Z",
+  "generatedAt": "2026-09-18T02:15:20.723Z",
   "software": [
     {
       "id": "cosmos",
@@ -964,7 +964,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 12,
-      "downloads": 931,
+      "downloads": 934,
       "hasRelease": true,
       "release": {
         "tag": "v1.8.2",
@@ -975,7 +975,7 @@
             "name": "ItimHebrewCalendar-Setup-1.8.2.exe",
             "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/download/v1.8.2/ItimHebrewCalendar-Setup-1.8.2.exe",
             "size": 78255186,
-            "downloads": 129
+            "downloads": 132
           }
         ]
       }
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 1,
-      "downloads": 403,
+      "downloads": 404,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.10",
@@ -1087,7 +1087,7 @@
             "name": "MusicRadio-1.0.10.apk",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/MusicRadio-1.0.10.apk",
             "size": 6953927,
-            "downloads": 20
+            "downloads": 21
           }
         ]
       }
@@ -1552,7 +1552,7 @@
       ],
       "pricing": "free",
       "stars": 1,
-      "downloads": 7,
+      "downloads": 8,
       "hasRelease": true,
       "release": {
         "tag": "v1.2.0",
@@ -1563,7 +1563,7 @@
             "name": "audio_analyzer_v1.2.0.exe",
             "url": "https://github.com/abaye123/AudioAnalyzer/releases/download/v1.2.0/audio_analyzer_v1.2.0.exe",
             "size": 170800168,
-            "downloads": 6
+            "downloads": 7
           }
         ]
       }

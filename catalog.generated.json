@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T10:45:41.945Z",
+  "generatedAt": "2026-09-24T16:09:22.761Z",
   "software": [
     {
       "id": "cosmos",
@@ -964,7 +964,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 12,
-      "downloads": 942,
+      "downloads": 943,
       "hasRelease": true,
       "release": {
         "tag": "v1.8.2",
@@ -975,7 +975,7 @@
             "name": "ItimHebrewCalendar-Setup-1.8.2.exe",
             "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/download/v1.8.2/ItimHebrewCalendar-Setup-1.8.2.exe",
             "size": 78255186,
-            "downloads": 140
+            "downloads": 141
           }
         ]
       }
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 1,
-      "downloads": 426,
+      "downloads": 429,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.10",
@@ -1021,7 +1021,7 @@
             "name": "latest.yml",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/latest.yml",
             "size": 390,
-            "downloads": 66
+            "downloads": 68
           },
           {
             "name": "musicradio-1.0.10-linux-amd64.deb",
@@ -1075,7 +1075,7 @@
             "name": "musicradio-1.0.10-win-x64-nsis.exe",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/musicradio-1.0.10-win-x64-nsis.exe",
             "size": 50055245,
-            "downloads": 24
+            "downloads": 25
           },
           {
             "name": "musicradio-1.0.10-win-x64-nsis.exe.blockmap",
@@ -1314,7 +1314,7 @@
       ],
       "pricing": "free",
       "stars": 2,
-      "downloads": 14,
+      "downloads": 15,
       "hasRelease": true,
       "release": {
         "tag": "v0.5.0",
@@ -1325,7 +1325,7 @@
             "name": "shchametai_0.5.0_x64-setup.exe",
             "url": "https://github.com/abaye123/shchametai/releases/download/v0.5.0/shchametai_0.5.0_x64-setup.exe",
             "size": 4031000,
-            "downloads": 4
+            "downloads": 5
           },
           {
             "name": "shchametai_0.5.0_x64_en-US.msi",
@@ -1428,7 +1428,7 @@
       ],
       "pricing": "free",
       "stars": 5,
-      "downloads": 257,
+      "downloads": 259,
       "hasRelease": true,
       "release": {
         "tag": "1.4.0",
@@ -1439,7 +1439,7 @@
             "name": "ZerachExplorer_setop_1.4.0.exe",
             "url": "https://github.com/abaye123/ZerachExplorer/releases/download/1.4.0/ZerachExplorer_setop_1.4.0.exe",
             "size": 3132086,
-            "downloads": 13
+            "downloads": 15
           },
           {
             "name": "ZerachExplorer_setop_1.4.0_signed.exe",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T12:23:14.842Z",
+  "generatedAt": "2026-09-28T22:45:54.609Z",
   "software": [
     {
       "id": "cosmos",
@@ -964,7 +964,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 12,
-      "downloads": 948,
+      "downloads": 949,
       "hasRelease": true,
       "release": {
         "tag": "v1.8.2",
@@ -975,7 +975,7 @@
             "name": "ItimHebrewCalendar-Setup-1.8.2.exe",
             "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/download/v1.8.2/ItimHebrewCalendar-Setup-1.8.2.exe",
             "size": 78255186,
-            "downloads": 146
+            "downloads": 147
           }
         ]
       }
@@ -1152,7 +1152,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/Kolsites/",
       "stars": 5,
-      "downloads": 38,
+      "downloads": 39,
       "hasRelease": true,
       "release": {
         "tag": "v1.7.1",
@@ -1163,7 +1163,7 @@
             "name": "Kolsites-Setup-1.7.1.exe",
             "url": "https://github.com/abaye123/Kolsites/releases/download/v1.7.1/Kolsites-Setup-1.7.1.exe",
             "size": 9728213,
-            "downloads": 14
+            "downloads": 15
           }
         ]
       }
@@ -1187,7 +1187,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/TapLingo/",
       "stars": 2,
-      "downloads": 76,
+      "downloads": 78,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
@@ -1198,7 +1198,7 @@
             "name": "TapLingo-Setup-1.0.0.exe",
             "url": "https://github.com/abaye123/TapLingo/releases/download/v1.0.0/TapLingo-Setup-1.0.0.exe",
             "size": 8222024,
-            "downloads": 76
+            "downloads": 78
           }
         ]
       }
@@ -1221,7 +1221,7 @@
       ],
       "pricing": "free",
       "stars": 0,
-      "downloads": 0,
+      "downloads": 1,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
@@ -1232,7 +1232,7 @@
             "name": "Lumio-Setup-1.0.0-x64.exe",
             "url": "https://github.com/abaye123/Lumio/releases/download/v1.0.0/Lumio-Setup-1.0.0-x64.exe",
             "size": 8947536,
-            "downloads": 0
+            "downloads": 1
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T17:17:58.554Z",
+  "generatedAt": "2026-09-29T21:39:44.974Z",
   "software": [
     {
       "id": "cosmos",
@@ -964,7 +964,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 12,
-      "downloads": 951,
+      "downloads": 952,
       "hasRelease": true,
       "release": {
         "tag": "v1.8.2",
@@ -975,7 +975,7 @@
             "name": "ItimHebrewCalendar-Setup-1.8.2.exe",
             "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/download/v1.8.2/ItimHebrewCalendar-Setup-1.8.2.exe",
             "size": 78255186,
-            "downloads": 149
+            "downloads": 150
           }
         ]
       }
@@ -1314,7 +1314,7 @@
       ],
       "pricing": "free",
       "stars": 2,
-      "downloads": 16,
+      "downloads": 17,
       "hasRelease": true,
       "release": {
         "tag": "v0.5.0",
@@ -1325,7 +1325,7 @@
             "name": "shchametai_0.5.0_x64-setup.exe",
             "url": "https://github.com/abaye123/shchametai/releases/download/v0.5.0/shchametai_0.5.0_x64-setup.exe",
             "size": 4031000,
-            "downloads": 6
+            "downloads": 7
           },
           {
             "name": "shchametai_0.5.0_x64_en-US.msi",

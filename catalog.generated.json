@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T21:40:26.722Z",
+  "generatedAt": "2026-10-01T12:04:47.136Z",
   "software": [
     {
       "id": "cosmos",
@@ -964,7 +964,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 12,
-      "downloads": 952,
+      "downloads": 954,
       "hasRelease": true,
       "release": {
         "tag": "v1.8.2",
@@ -975,7 +975,7 @@
             "name": "ItimHebrewCalendar-Setup-1.8.2.exe",
             "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/download/v1.8.2/ItimHebrewCalendar-Setup-1.8.2.exe",
             "size": 78255186,
-            "downloads": 150
+            "downloads": 152
           }
         ]
       }

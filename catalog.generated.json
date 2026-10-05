@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T20:39:57.221Z",
+  "generatedAt": "2026-10-05T03:05:27.487Z",
   "software": [
     {
       "id": "cosmos",
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 1,
-      "downloads": 470,
+      "downloads": 472,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.10",
@@ -1021,7 +1021,7 @@
             "name": "latest.yml",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/latest.yml",
             "size": 390,
-            "downloads": 95
+            "downloads": 97
           },
           {
             "name": "musicradio-1.0.10-linux-amd64.deb",
@@ -1313,8 +1313,8 @@
         "Gemini"
       ],
       "pricing": "free",
-      "stars": 2,
-      "downloads": 18,
+      "stars": 3,
+      "downloads": 19,
       "hasRelease": true,
       "release": {
         "tag": "v0.6.0",
@@ -1325,7 +1325,7 @@
             "name": "shchametai_0.6.0_x64-portable.exe",
             "url": "https://github.com/abaye123/shchametai/releases/download/v0.6.0/shchametai_0.6.0_x64-portable.exe",
             "size": 9763840,
-            "downloads": 1
+            "downloads": 2
           },
           {
             "name": "shchametai_0.6.0_x64-setup.exe",
@@ -1434,7 +1434,7 @@
       ],
       "pricing": "free",
       "stars": 5,
-      "downloads": 262,
+      "downloads": 263,
       "hasRelease": true,
       "release": {
         "tag": "1.4.0",
@@ -1451,7 +1451,7 @@
             "name": "ZerachExplorer_setop_1.4.0_signed.exe",
             "url": "https://github.com/abaye123/ZerachExplorer/releases/download/1.4.0/ZerachExplorer_setop_1.4.0_signed.exe",
             "size": 3139680,
-            "downloads": 170
+            "downloads": 171
           }
         ]
       }

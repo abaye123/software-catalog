@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T23:29:09.907Z",
+  "generatedAt": "2026-10-06T03:54:53.205Z",
   "software": [
     {
       "id": "cosmos",
@@ -1475,7 +1475,7 @@
       ],
       "pricing": "free",
       "stars": 0,
-      "downloads": 145,
+      "downloads": 149,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
@@ -1486,19 +1486,19 @@
             "name": "FAT32Formatter_v1.0.0.exe",
             "url": "https://github.com/abaye123/FAT32Formatter/releases/download/v1.0.0/FAT32Formatter_v1.0.0.exe",
             "size": 22423528,
-            "downloads": 113
+            "downloads": 115
           },
           {
             "name": "FAT32Formatter_v1.0.0_password_123.rar",
             "url": "https://github.com/abaye123/FAT32Formatter/releases/download/v1.0.0/FAT32Formatter_v1.0.0_password_123.rar",
             "size": 22249662,
-            "downloads": 14
+            "downloads": 15
           },
           {
             "name": "FAT32Formatter_v1.0.0_password_123.zip",
             "url": "https://github.com/abaye123/FAT32Formatter/releases/download/v1.0.0/FAT32Formatter_v1.0.0_password_123.zip",
             "size": 22366781,
-            "downloads": 18
+            "downloads": 19
           }
         ]
       }

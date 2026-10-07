@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T22:01:31.820Z",
+  "generatedAt": "2026-10-07T12:19:43.755Z",
   "software": [
     {
       "id": "cosmos",
@@ -964,7 +964,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 12,
-      "downloads": 955,
+      "downloads": 958,
       "hasRelease": true,
       "release": {
         "tag": "v1.8.2",
@@ -975,7 +975,7 @@
             "name": "ItimHebrewCalendar-Setup-1.8.2.exe",
             "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/download/v1.8.2/ItimHebrewCalendar-Setup-1.8.2.exe",
             "size": 78255186,
-            "downloads": 153
+            "downloads": 156
           }
         ]
       }
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 1,
-      "downloads": 494,
+      "downloads": 501,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.10",
@@ -1021,7 +1021,7 @@
             "name": "latest.yml",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.10/latest.yml",
             "size": 390,
-            "downloads": 114
+            "downloads": 121
           },
           {
             "name": "musicradio-1.0.10-linux-amd64.deb",
@@ -1434,7 +1434,7 @@
       ],
       "pricing": "free",
       "stars": 5,
-      "downloads": 263,
+      "downloads": 264,
       "hasRelease": true,
       "release": {
         "tag": "1.4.0",
@@ -1451,7 +1451,7 @@
             "name": "ZerachExplorer_setop_1.4.0_signed.exe",
             "url": "https://github.com/abaye123/ZerachExplorer/releases/download/1.4.0/ZerachExplorer_setop_1.4.0_signed.exe",
             "size": 3139680,
-            "downloads": 171
+            "downloads": 172
           }
         ]
       }

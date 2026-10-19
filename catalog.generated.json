@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T11:35:47.449Z",
+  "generatedAt": "2026-10-19T17:58:13.371Z",
   "software": [
     {
       "id": "cosmos",
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 1,
-      "downloads": 601,
+      "downloads": 610,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.13",
@@ -1021,7 +1021,7 @@
             "name": "latest.yml",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.13/latest.yml",
             "size": 390,
-            "downloads": 5
+            "downloads": 9
           },
           {
             "name": "musicradio-1.0.13-linux-amd64.deb",
@@ -1075,13 +1075,13 @@
             "name": "musicradio-1.0.13-win-x64-nsis.exe",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.13/musicradio-1.0.13-win-x64-nsis.exe",
             "size": 49584367,
-            "downloads": 3
+            "downloads": 5
           },
           {
             "name": "musicradio-1.0.13-win-x64-nsis.exe.blockmap",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.13/musicradio-1.0.13-win-x64-nsis.exe.blockmap",
             "size": 53266,
-            "downloads": 3
+            "downloads": 6
           },
           {
             "name": "MusicRadio-1.0.13.apk",
@@ -1475,7 +1475,7 @@
       ],
       "pricing": "free",
       "stars": 0,
-      "downloads": 153,
+      "downloads": 156,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
@@ -1486,19 +1486,19 @@
             "name": "FAT32Formatter_v1.0.0.exe",
             "url": "https://github.com/abaye123/FAT32Formatter/releases/download/v1.0.0/FAT32Formatter_v1.0.0.exe",
             "size": 22423528,
-            "downloads": 118
+            "downloads": 119
           },
           {
             "name": "FAT32Formatter_v1.0.0_password_123.rar",
             "url": "https://github.com/abaye123/FAT32Formatter/releases/download/v1.0.0/FAT32Formatter_v1.0.0_password_123.rar",
             "size": 22249662,
-            "downloads": 15
+            "downloads": 16
           },
           {
             "name": "FAT32Formatter_v1.0.0_password_123.zip",
             "url": "https://github.com/abaye123/FAT32Formatter/releases/download/v1.0.0/FAT32Formatter_v1.0.0_password_123.zip",
             "size": 22366781,
-            "downloads": 20
+            "downloads": 21
           }
         ]
       }

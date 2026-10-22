@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T16:18:20.644Z",
+  "generatedAt": "2026-10-22T20:58:48.680Z",
   "software": [
     {
       "id": "cosmos",
@@ -964,9 +964,21 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 12,
-      "downloads": null,
-      "hasRelease": false,
-      "release": null
+      "downloads": 980,
+      "hasRelease": true,
+      "release": {
+        "tag": "v1.8.2",
+        "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/tag/v1.8.2",
+        "publishedAt": "2026-07-07T13:29:26Z",
+        "assets": [
+          {
+            "name": "ItimHebrewCalendar-Setup-1.8.2.exe",
+            "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/download/v1.8.2/ItimHebrewCalendar-Setup-1.8.2.exe",
+            "size": 78255186,
+            "downloads": 178
+          }
+        ]
+      }
     },
     {
       "id": "musicradio",
@@ -986,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 1,
-      "downloads": 634,
+      "downloads": 635,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.13",
@@ -1009,7 +1021,7 @@
             "name": "latest.yml",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.13/latest.yml",
             "size": 390,
-            "downloads": 23
+            "downloads": 24
           },
           {
             "name": "musicradio-1.0.13-linux-amd64.deb",
@@ -1140,9 +1152,21 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/Kolsites/",
       "stars": 5,
-      "downloads": null,
-      "hasRelease": false,
-      "release": null
+      "downloads": 39,
+      "hasRelease": true,
+      "release": {
+        "tag": "v1.7.1",
+        "url": "https://github.com/abaye123/Kolsites/releases/tag/v1.7.1",
+        "publishedAt": "2026-07-08T12:29:54Z",
+        "assets": [
+          {
+            "name": "Kolsites-Setup-1.7.1.exe",
+            "url": "https://github.com/abaye123/Kolsites/releases/download/v1.7.1/Kolsites-Setup-1.7.1.exe",
+            "size": 9728213,
+            "downloads": 15
+          }
+        ]
+      }
     },
     {
       "id": "taplingo",
@@ -1163,9 +1187,21 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/TapLingo/",
       "stars": 2,
-      "downloads": null,
-      "hasRelease": false,
-      "release": null
+      "downloads": 81,
+      "hasRelease": true,
+      "release": {
+        "tag": "v1.0.0",
+        "url": "https://github.com/abaye123/TapLingo/releases/tag/v1.0.0",
+        "publishedAt": "2026-04-24T10:38:04Z",
+        "assets": [
+          {
+            "name": "TapLingo-Setup-1.0.0.exe",
+            "url": "https://github.com/abaye123/TapLingo/releases/download/v1.0.0/TapLingo-Setup-1.0.0.exe",
+            "size": 8222024,
+            "downloads": 81
+          }
+        ]
+      }
     },
     {
       "id": "lumio",
@@ -1185,9 +1221,21 @@
       ],
       "pricing": "free",
       "stars": 0,
-      "downloads": null,
-      "hasRelease": false,
-      "release": null
+      "downloads": 1,
+      "hasRelease": true,
+      "release": {
+        "tag": "v1.0.0",
+        "url": "https://github.com/abaye123/Lumio/releases/tag/v1.0.0",
+        "publishedAt": "2026-06-30T15:41:42Z",
+        "assets": [
+          {
+            "name": "Lumio-Setup-1.0.0-x64.exe",
+            "url": "https://github.com/abaye123/Lumio/releases/download/v1.0.0/Lumio-Setup-1.0.0-x64.exe",
+            "size": 8947536,
+            "downloads": 1
+          }
+        ]
+      }
     },
     {
       "id": "et",
@@ -1231,9 +1279,21 @@
       ],
       "pricing": "free",
       "stars": 2,
-      "downloads": null,
-      "hasRelease": false,
-      "release": null
+      "downloads": 101,
+      "hasRelease": true,
+      "release": {
+        "tag": "v2.1.0",
+        "url": "https://github.com/abaye123/Voltrix/releases/tag/v2.1.0",
+        "publishedAt": "2025-04-20T05:46:04Z",
+        "assets": [
+          {
+            "name": "Voltrix_setop_2.1.0_signed.exe",
+            "url": "https://github.com/abaye123/Voltrix/releases/download/v2.1.0/Voltrix_setop_2.1.0_signed.exe",
+            "size": 70424864,
+            "downloads": 62
+          }
+        ]
+      }
     },
     {
       "id": "shchametai",
@@ -1254,9 +1314,33 @@
       ],
       "pricing": "free",
       "stars": 3,
-      "downloads": null,
-      "hasRelease": false,
-      "release": null
+      "downloads": 19,
+      "hasRelease": true,
+      "release": {
+        "tag": "v0.6.0",
+        "url": "https://github.com/abaye123/shchametai/releases/tag/v0.6.0",
+        "publishedAt": "2026-09-30T07:23:37Z",
+        "assets": [
+          {
+            "name": "shchametai_0.6.0_x64-portable.exe",
+            "url": "https://github.com/abaye123/shchametai/releases/download/v0.6.0/shchametai_0.6.0_x64-portable.exe",
+            "size": 9763840,
+            "downloads": 2
+          },
+          {
+            "name": "shchametai_0.6.0_x64-setup.exe",
+            "url": "https://github.com/abaye123/shchametai/releases/download/v0.6.0/shchametai_0.6.0_x64-setup.exe",
+            "size": 3991305,
+            "downloads": 0
+          },
+          {
+            "name": "shchametai_0.6.0_x64_en-US.msi",
+            "url": "https://github.com/abaye123/shchametai/releases/download/v0.6.0/shchametai_0.6.0_x64_en-US.msi",
+            "size": 4259840,
+            "downloads": 0
+          }
+        ]
+      }
     },
     {
       "id": "lasercounter",
@@ -1276,9 +1360,27 @@
       ],
       "pricing": "free",
       "stars": 1,
-      "downloads": null,
-      "hasRelease": false,
-      "release": null
+      "downloads": 11,
+      "hasRelease": true,
+      "release": {
+        "tag": "v1.0.0",
+        "url": "https://github.com/abaye123/LaserCounter/releases/tag/v1.0.0",
+        "publishedAt": "2026-02-09T19:44:28Z",
+        "assets": [
+          {
+            "name": "Laser_Counter_1.0.0.exe",
+            "url": "https://github.com/abaye123/LaserCounter/releases/download/v1.0.0/Laser_Counter_1.0.0.exe",
+            "size": 22368232,
+            "downloads": 10
+          },
+          {
+            "name": "Laser_Counter_Setup_1.0.0.exe",
+            "url": "https://github.com/abaye123/LaserCounter/releases/download/v1.0.0/Laser_Counter_Setup_1.0.0.exe",
+            "size": 24620112,
+            "downloads": 1
+          }
+        ]
+      }
     },
     {
       "id": "snapfront",
@@ -1298,9 +1400,21 @@
       ],
       "pricing": "free",
       "stars": 0,
-      "downloads": null,
-      "hasRelease": false,
-      "release": null
+      "downloads": 4,
+      "hasRelease": true,
+      "release": {
+        "tag": "v1.0.0",
+        "url": "https://github.com/abaye123/Snapfront/releases/tag/v1.0.0",
+        "publishedAt": "2026-07-02T12:50:28Z",
+        "assets": [
+          {
+            "name": "Snapfront_v1.0.0.zip",
+            "url": "https://github.com/abaye123/Snapfront/releases/download/v1.0.0/Snapfront_v1.0.0.zip",
+            "size": 88945,
+            "downloads": 4
+          }
+        ]
+      }
     },
     {
       "id": "zerach-explorer",
@@ -1320,9 +1434,27 @@
       ],
       "pricing": "free",
       "stars": 5,
-      "downloads": null,
-      "hasRelease": false,
-      "release": null
+      "downloads": 269,
+      "hasRelease": true,
+      "release": {
+        "tag": "1.4.0",
+        "url": "https://github.com/abaye123/ZerachExplorer/releases/tag/1.4.0",
+        "publishedAt": "2024-12-04T10:42:54Z",
+        "assets": [
+          {
+            "name": "ZerachExplorer_setop_1.4.0.exe",
+            "url": "https://github.com/abaye123/ZerachExplorer/releases/download/1.4.0/ZerachExplorer_setop_1.4.0.exe",
+            "size": 3132086,
+            "downloads": 16
+          },
+          {
+            "name": "ZerachExplorer_setop_1.4.0_signed.exe",
+            "url": "https://github.com/abaye123/ZerachExplorer/releases/download/1.4.0/ZerachExplorer_setop_1.4.0_signed.exe",
+            "size": 3139680,
+            "downloads": 177
+          }
+        ]
+      }
     },
     {
       "id": "fat32formatter",
@@ -1343,9 +1475,33 @@
       ],
       "pricing": "free",
       "stars": 0,
-      "downloads": null,
-      "hasRelease": false,
-      "release": null
+      "downloads": 156,
+      "hasRelease": true,
+      "release": {
+        "tag": "v1.0.0",
+        "url": "https://github.com/abaye123/FAT32Formatter/releases/tag/v1.0.0",
+        "publishedAt": "2026-05-07T12:47:58Z",
+        "assets": [
+          {
+            "name": "FAT32Formatter_v1.0.0.exe",
+            "url": "https://github.com/abaye123/FAT32Formatter/releases/download/v1.0.0/FAT32Formatter_v1.0.0.exe",
+            "size": 22423528,
+            "downloads": 119
+          },
+          {
+            "name": "FAT32Formatter_v1.0.0_password_123.rar",
+            "url": "https://github.com/abaye123/FAT32Formatter/releases/download/v1.0.0/FAT32Formatter_v1.0.0_password_123.rar",
+            "size": 22249662,
+            "downloads": 16
+          },
+          {
+            "name": "FAT32Formatter_v1.0.0_password_123.zip",
+            "url": "https://github.com/abaye123/FAT32Formatter/releases/download/v1.0.0/FAT32Formatter_v1.0.0_password_123.zip",
+            "size": 22366781,
+            "downloads": 21
+          }
+        ]
+      }
     },
     {
       "id": "talmudformulas",
@@ -1367,9 +1523,21 @@
       ],
       "pricing": "free",
       "stars": 4,
-      "downloads": null,
-      "hasRelease": false,
-      "release": null
+      "downloads": 54,
+      "hasRelease": true,
+      "release": {
+        "tag": "v1.0.1",
+        "url": "https://github.com/abaye123/TalmudFormulas/releases/tag/v1.0.1",
+        "publishedAt": "2026-05-04T23:54:46Z",
+        "assets": [
+          {
+            "name": "TalmudFormulas-Setup-1.0.1.exe",
+            "url": "https://github.com/abaye123/TalmudFormulas/releases/download/v1.0.1/TalmudFormulas-Setup-1.0.1.exe",
+            "size": 180856984,
+            "downloads": 7
+          }
+        ]
+      }
     },
     {
       "id": "audioanalyzer",

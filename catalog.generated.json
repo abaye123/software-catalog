@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T17:39:08.769Z",
+  "generatedAt": "2026-10-28T22:00:30.793Z",
   "software": [
     {
       "id": "cosmos",
@@ -964,7 +964,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 12,
-      "downloads": 985,
+      "downloads": 987,
       "hasRelease": true,
       "release": {
         "tag": "v1.8.2",
@@ -975,7 +975,7 @@
             "name": "ItimHebrewCalendar-Setup-1.8.2.exe",
             "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/download/v1.8.2/ItimHebrewCalendar-Setup-1.8.2.exe",
             "size": 78255186,
-            "downloads": 183
+            "downloads": 185
           }
         ]
       }
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 1,
-      "downloads": 680,
+      "downloads": 684,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.13",
@@ -1021,7 +1021,7 @@
             "name": "latest.yml",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.13/latest.yml",
             "size": 390,
-            "downloads": 52
+            "downloads": 54
           },
           {
             "name": "musicradio-1.0.13-linux-amd64.deb",
@@ -1075,7 +1075,7 @@
             "name": "musicradio-1.0.13-win-x64-nsis.exe",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.13/musicradio-1.0.13-win-x64-nsis.exe",
             "size": 49584367,
-            "downloads": 15
+            "downloads": 17
           },
           {
             "name": "musicradio-1.0.13-win-x64-nsis.exe.blockmap",
@@ -1475,7 +1475,7 @@
       ],
       "pricing": "free",
       "stars": 0,
-      "downloads": 157,
+      "downloads": 159,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
@@ -1486,7 +1486,7 @@
             "name": "FAT32Formatter_v1.0.0.exe",
             "url": "https://github.com/abaye123/FAT32Formatter/releases/download/v1.0.0/FAT32Formatter_v1.0.0.exe",
             "size": 22423528,
-            "downloads": 120
+            "downloads": 122
           },
           {
             "name": "FAT32Formatter_v1.0.0_password_123.rar",

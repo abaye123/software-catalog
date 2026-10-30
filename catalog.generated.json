@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T03:35:59.593Z",
+  "generatedAt": "2026-10-30T11:52:25.596Z",
   "software": [
     {
       "id": "cosmos",
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 1,
-      "downloads": 695,
+      "downloads": 697,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.13",
@@ -1021,7 +1021,7 @@
             "name": "latest.yml",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.13/latest.yml",
             "size": 390,
-            "downloads": 60
+            "downloads": 62
           },
           {
             "name": "musicradio-1.0.13-linux-amd64.deb",
@@ -1187,7 +1187,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/TapLingo/",
       "stars": 2,
-      "downloads": 81,
+      "downloads": 82,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
@@ -1198,7 +1198,7 @@
             "name": "TapLingo-Setup-1.0.0.exe",
             "url": "https://github.com/abaye123/TapLingo/releases/download/v1.0.0/TapLingo-Setup-1.0.0.exe",
             "size": 8222024,
-            "downloads": 81
+            "downloads": 82
           }
         ]
       }

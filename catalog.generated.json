@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T04:16:16.801Z",
+  "generatedAt": "2026-11-06T13:27:47.905Z",
   "software": [
     {
       "id": "cosmos",
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 2,
-      "downloads": 758,
+      "downloads": 766,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.13",
@@ -1021,7 +1021,7 @@
             "name": "latest.yml",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.13/latest.yml",
             "size": 390,
-            "downloads": 94
+            "downloads": 98
           },
           {
             "name": "musicradio-1.0.13-linux-amd64.deb",
@@ -1075,7 +1075,7 @@
             "name": "musicradio-1.0.13-win-x64-nsis.exe",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.13/musicradio-1.0.13-win-x64-nsis.exe",
             "size": 49584367,
-            "downloads": 27
+            "downloads": 28
           },
           {
             "name": "musicradio-1.0.13-win-x64-nsis.exe.blockmap",
@@ -1221,9 +1221,21 @@
       ],
       "pricing": "free",
       "stars": 0,
-      "downloads": null,
-      "hasRelease": false,
-      "release": null
+      "downloads": 1,
+      "hasRelease": true,
+      "release": {
+        "tag": "v1.0.0",
+        "url": "https://github.com/abaye123/Lumio/releases/tag/v1.0.0",
+        "publishedAt": "2026-06-30T15:41:42Z",
+        "assets": [
+          {
+            "name": "Lumio-Setup-1.0.0-x64.exe",
+            "url": "https://github.com/abaye123/Lumio/releases/download/v1.0.0/Lumio-Setup-1.0.0-x64.exe",
+            "size": 8947536,
+            "downloads": 1
+          }
+        ]
+      }
     },
     {
       "id": "et",

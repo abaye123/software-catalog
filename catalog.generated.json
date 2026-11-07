@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T12:07:07.416Z",
+  "generatedAt": "2026-11-07T21:13:51.773Z",
   "software": [
     {
       "id": "cosmos",
@@ -964,7 +964,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 12,
-      "downloads": 999,
+      "downloads": 1000,
       "hasRelease": true,
       "release": {
         "tag": "v1.8.2",
@@ -975,7 +975,7 @@
             "name": "ItimHebrewCalendar-Setup-1.8.2.exe",
             "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/download/v1.8.2/ItimHebrewCalendar-Setup-1.8.2.exe",
             "size": 78255186,
-            "downloads": 195
+            "downloads": 196
           }
         ]
       }
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 2,
-      "downloads": 772,
+      "downloads": 774,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.13",
@@ -1021,7 +1021,7 @@
             "name": "latest.yml",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.13/latest.yml",
             "size": 390,
-            "downloads": 98
+            "downloads": 99
           },
           {
             "name": "musicradio-1.0.13-linux-amd64.deb",

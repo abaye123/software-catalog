@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T22:31:51.779Z",
+  "generatedAt": "2026-11-07T03:47:19.484Z",
   "software": [
     {
       "id": "cosmos",
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 2,
-      "downloads": 768,
+      "downloads": 770,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.13",
@@ -1434,7 +1434,7 @@
       ],
       "pricing": "free",
       "stars": 5,
-      "downloads": 275,
+      "downloads": 276,
       "hasRelease": true,
       "release": {
         "tag": "1.4.0",
@@ -1451,7 +1451,7 @@
             "name": "ZerachExplorer_setop_1.4.0_signed.exe",
             "url": "https://github.com/abaye123/ZerachExplorer/releases/download/1.4.0/ZerachExplorer_setop_1.4.0_signed.exe",
             "size": 3139680,
-            "downloads": 183
+            "downloads": 184
           }
         ]
       }

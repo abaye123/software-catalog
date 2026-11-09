@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T03:43:32.244Z",
+  "generatedAt": "2026-11-09T14:43:18.458Z",
   "software": [
     {
       "id": "cosmos",
@@ -964,7 +964,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 12,
-      "downloads": 1010,
+      "downloads": 1011,
       "hasRelease": true,
       "release": {
         "tag": "v1.8.2",
@@ -975,7 +975,7 @@
             "name": "ItimHebrewCalendar-Setup-1.8.2.exe",
             "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/download/v1.8.2/ItimHebrewCalendar-Setup-1.8.2.exe",
             "size": 78255186,
-            "downloads": 206
+            "downloads": 207
           }
         ]
       }
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 2,
-      "downloads": 785,
+      "downloads": 787,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.13",
@@ -1021,7 +1021,7 @@
             "name": "latest.yml",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.13/latest.yml",
             "size": 390,
-            "downloads": 103
+            "downloads": 104
           },
           {
             "name": "musicradio-1.0.13-linux-amd64.deb",
@@ -1087,7 +1087,7 @@
             "name": "MusicRadio-1.0.13.apk",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.13/MusicRadio-1.0.13.apk",
             "size": 6480463,
-            "downloads": 17
+            "downloads": 18
           }
         ]
       }
@@ -1434,7 +1434,7 @@
       ],
       "pricing": "free",
       "stars": 6,
-      "downloads": 277,
+      "downloads": 278,
       "hasRelease": true,
       "release": {
         "tag": "1.4.0",
@@ -1445,7 +1445,7 @@
             "name": "ZerachExplorer_setop_1.4.0.exe",
             "url": "https://github.com/abaye123/ZerachExplorer/releases/download/1.4.0/ZerachExplorer_setop_1.4.0.exe",
             "size": 3132086,
-            "downloads": 16
+            "downloads": 17
           },
           {
             "name": "ZerachExplorer_setop_1.4.0_signed.exe",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T22:58:37.998Z",
+  "generatedAt": "2026-11-13T04:10:08.119Z",
   "software": [
     {
       "id": "cosmos",
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 2,
-      "downloads": 805,
+      "downloads": 808,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.13",
@@ -1075,7 +1075,7 @@
             "name": "musicradio-1.0.13-win-x64-nsis.exe",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.13/musicradio-1.0.13-win-x64-nsis.exe",
             "size": 49584367,
-            "downloads": 33
+            "downloads": 35
           },
           {
             "name": "musicradio-1.0.13-win-x64-nsis.exe.blockmap",
@@ -1314,7 +1314,7 @@
       ],
       "pricing": "free",
       "stars": 3,
-      "downloads": 19,
+      "downloads": 20,
       "hasRelease": true,
       "release": {
         "tag": "v0.6.0",
@@ -1331,7 +1331,7 @@
             "name": "shchametai_0.6.0_x64-setup.exe",
             "url": "https://github.com/abaye123/shchametai/releases/download/v0.6.0/shchametai_0.6.0_x64-setup.exe",
             "size": 3991305,
-            "downloads": 0
+            "downloads": 1
           },
           {
             "name": "shchametai_0.6.0_x64_en-US.msi",

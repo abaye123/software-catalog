@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T04:10:08.119Z",
+  "generatedAt": "2026-11-13T13:39:01.640Z",
   "software": [
     {
       "id": "cosmos",
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 2,
-      "downloads": 808,
+      "downloads": 817,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.13",
@@ -1021,7 +1021,7 @@
             "name": "latest.yml",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.13/latest.yml",
             "size": 390,
-            "downloads": 113
+            "downloads": 118
           },
           {
             "name": "musicradio-1.0.13-linux-amd64.deb",
@@ -1087,7 +1087,7 @@
             "name": "MusicRadio-1.0.13.apk",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.13/MusicRadio-1.0.13.apk",
             "size": 6480463,
-            "downloads": 18
+            "downloads": 19
           }
         ]
       }
@@ -1187,7 +1187,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/TapLingo/",
       "stars": 2,
-      "downloads": 83,
+      "downloads": 84,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
@@ -1198,7 +1198,7 @@
             "name": "TapLingo-Setup-1.0.0.exe",
             "url": "https://github.com/abaye123/TapLingo/releases/download/v1.0.0/TapLingo-Setup-1.0.0.exe",
             "size": 8222024,
-            "downloads": 83
+            "downloads": 84
           }
         ]
       }
@@ -1279,7 +1279,7 @@
       ],
       "pricing": "free",
       "stars": 2,
-      "downloads": 101,
+      "downloads": 102,
       "hasRelease": true,
       "release": {
         "tag": "v2.1.0",
@@ -1290,7 +1290,7 @@
             "name": "Voltrix_setop_2.1.0_signed.exe",
             "url": "https://github.com/abaye123/Voltrix/releases/download/v2.1.0/Voltrix_setop_2.1.0_signed.exe",
             "size": 70424864,
-            "downloads": 62
+            "downloads": 63
           }
         ]
       }
@@ -1475,7 +1475,7 @@
       ],
       "pricing": "free",
       "stars": 0,
-      "downloads": 162,
+      "downloads": 163,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
@@ -1486,7 +1486,7 @@
             "name": "FAT32Formatter_v1.0.0.exe",
             "url": "https://github.com/abaye123/FAT32Formatter/releases/download/v1.0.0/FAT32Formatter_v1.0.0.exe",
             "size": 22423528,
-            "downloads": 124
+            "downloads": 125
           },
           {
             "name": "FAT32Formatter_v1.0.0_password_123.rar",

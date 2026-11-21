@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T13:54:28.245Z",
+  "generatedAt": "2026-11-21T22:36:04.275Z",
   "software": [
     {
       "id": "cosmos",
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 2,
-      "downloads": 855,
+      "downloads": 859,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.13",
@@ -1021,7 +1021,7 @@
             "name": "latest.yml",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.13/latest.yml",
             "size": 390,
-            "downloads": 135
+            "downloads": 138
           },
           {
             "name": "musicradio-1.0.13-linux-amd64.deb",
@@ -1087,7 +1087,7 @@
             "name": "MusicRadio-1.0.13.apk",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.13/MusicRadio-1.0.13.apk",
             "size": 6480463,
-            "downloads": 25
+            "downloads": 26
           }
         ]
       }
@@ -1475,7 +1475,7 @@
       ],
       "pricing": "free",
       "stars": 0,
-      "downloads": 165,
+      "downloads": 167,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.0",
@@ -1486,7 +1486,7 @@
             "name": "FAT32Formatter_v1.0.0.exe",
             "url": "https://github.com/abaye123/FAT32Formatter/releases/download/v1.0.0/FAT32Formatter_v1.0.0.exe",
             "size": 22423528,
-            "downloads": 127
+            "downloads": 129
           },
           {
             "name": "FAT32Formatter_v1.0.0_password_123.rar",

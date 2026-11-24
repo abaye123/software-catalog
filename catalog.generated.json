@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T16:52:46.575Z",
+  "generatedAt": "2026-11-24T03:37:25.363Z",
   "software": [
     {
       "id": "cosmos",
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 2,
-      "downloads": 869,
+      "downloads": 871,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.13",
@@ -1021,7 +1021,7 @@
             "name": "latest.yml",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.13/latest.yml",
             "size": 390,
-            "downloads": 144
+            "downloads": 145
           },
           {
             "name": "musicradio-1.0.13-linux-amd64.deb",
@@ -1075,7 +1075,7 @@
             "name": "musicradio-1.0.13-win-x64-nsis.exe",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.13/musicradio-1.0.13-win-x64-nsis.exe",
             "size": 49584367,
-            "downloads": 45
+            "downloads": 46
           },
           {
             "name": "musicradio-1.0.13-win-x64-nsis.exe.blockmap",

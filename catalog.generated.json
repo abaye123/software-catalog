@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T16:43:16.341Z",
+  "generatedAt": "2026-11-25T01:45:03.497Z",
   "software": [
     {
       "id": "cosmos",
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 2,
-      "downloads": 873,
+      "downloads": 874,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.13",
@@ -1279,7 +1279,7 @@
       ],
       "pricing": "free",
       "stars": 2,
-      "downloads": 102,
+      "downloads": 103,
       "hasRelease": true,
       "release": {
         "tag": "v2.1.0",
@@ -1290,7 +1290,7 @@
             "name": "Voltrix_setop_2.1.0_signed.exe",
             "url": "https://github.com/abaye123/Voltrix/releases/download/v2.1.0/Voltrix_setop_2.1.0_signed.exe",
             "size": 70424864,
-            "downloads": 63
+            "downloads": 64
           }
         ]
       }
@@ -1434,24 +1434,30 @@
       ],
       "pricing": "free",
       "stars": 7,
-      "downloads": 287,
+      "downloads": 302,
       "hasRelease": true,
       "release": {
-        "tag": "1.4.0",
-        "url": "https://github.com/abaye123/ZerachExplorer/releases/tag/1.4.0",
-        "publishedAt": "2024-12-04T10:42:54Z",
+        "tag": "v2.0.0",
+        "url": "https://github.com/abaye123/ZerachExplorer/releases/tag/v2.0.0",
+        "publishedAt": "2026-11-24T19:07:46Z",
         "assets": [
           {
-            "name": "ZerachExplorer_setop_1.4.0.exe",
-            "url": "https://github.com/abaye123/ZerachExplorer/releases/download/1.4.0/ZerachExplorer_setop_1.4.0.exe",
-            "size": 3132086,
-            "downloads": 17
+            "name": "checksums.sha256",
+            "url": "https://github.com/abaye123/ZerachExplorer/releases/download/v2.0.0/checksums.sha256",
+            "size": 187,
+            "downloads": 2
           },
           {
-            "name": "ZerachExplorer_setop_1.4.0_signed.exe",
-            "url": "https://github.com/abaye123/ZerachExplorer/releases/download/1.4.0/ZerachExplorer_setop_1.4.0_signed.exe",
-            "size": 3139680,
-            "downloads": 194
+            "name": "ZerachExplorer_portable.exe",
+            "url": "https://github.com/abaye123/ZerachExplorer/releases/download/v2.0.0/ZerachExplorer_portable.exe",
+            "size": 65328648,
+            "downloads": 2
+          },
+          {
+            "name": "ZerachExplorer_setup.exe",
+            "url": "https://github.com/abaye123/ZerachExplorer/releases/download/v2.0.0/ZerachExplorer_setup.exe",
+            "size": 45790448,
+            "downloads": 2
           }
         ]
       }

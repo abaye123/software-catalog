@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T01:19:46.400Z",
+  "generatedAt": "2026-11-26T16:01:30.093Z",
   "software": [
     {
       "id": "cosmos",
@@ -964,7 +964,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/ItimHebrewCalendar/",
       "stars": 12,
-      "downloads": 1026,
+      "downloads": 1027,
       "hasRelease": true,
       "release": {
         "tag": "v1.8.2",
@@ -975,7 +975,7 @@
             "name": "ItimHebrewCalendar-Setup-1.8.2.exe",
             "url": "https://github.com/abaye123/ItimHebrewCalendar/releases/download/v1.8.2/ItimHebrewCalendar-Setup-1.8.2.exe",
             "size": 78255186,
-            "downloads": 220
+            "downloads": 221
           }
         ]
       }
@@ -1434,7 +1434,7 @@
       ],
       "pricing": "free",
       "stars": 7,
-      "downloads": 305,
+      "downloads": 306,
       "hasRelease": true,
       "release": {
         "tag": "v2.0.0",
@@ -1457,7 +1457,7 @@
             "name": "ZerachExplorer_setup.exe",
             "url": "https://github.com/abaye123/ZerachExplorer/releases/download/v2.0.0/ZerachExplorer_setup.exe",
             "size": 45790448,
-            "downloads": 4
+            "downloads": 5
           }
         ]
       }

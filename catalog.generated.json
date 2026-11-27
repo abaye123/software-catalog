@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T01:17:03.007Z",
+  "generatedAt": "2026-11-27T15:50:38.496Z",
   "software": [
     {
       "id": "cosmos",
@@ -998,7 +998,7 @@
       "pricing": "free",
       "page": "https://abaye123.github.io/MusicRadio/",
       "stars": 2,
-      "downloads": 875,
+      "downloads": 877,
       "hasRelease": true,
       "release": {
         "tag": "v1.0.13",
@@ -1021,7 +1021,7 @@
             "name": "latest.yml",
             "url": "https://github.com/abaye123/MusicRadio/releases/download/v1.0.13/latest.yml",
             "size": 390,
-            "downloads": 147
+            "downloads": 149
           },
           {
             "name": "musicradio-1.0.13-linux-amd64.deb",
@@ -1434,7 +1434,7 @@
       ],
       "pricing": "free",
       "stars": 7,
-      "downloads": 306,
+      "downloads": 309,
       "hasRelease": true,
       "release": {
         "tag": "v2.0.0",
@@ -1457,7 +1457,7 @@
             "name": "ZerachExplorer_setup.exe",
             "url": "https://github.com/abaye123/ZerachExplorer/releases/download/v2.0.0/ZerachExplorer_setup.exe",
             "size": 45790448,
-            "downloads": 5
+            "downloads": 8
           }
         ]
       }
